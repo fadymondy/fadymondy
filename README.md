@@ -68,6 +68,10 @@ i have a lot of tools and lanauages so let's category it
 <a href="#"><img align="center"  height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="CloudFlare" /></a>
 <a href="#"><img align="center"  height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" /></a>
 
+<a href="#"><img align="center"  height="40px" src="https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1566913083/catalog/laravel-forge/icon128x128.png" alt="Laravel Forge" /></a>
+<a href="#"><img align="center"  height="40px" src="https://ploi.io/images/ploi256blue.jpg" alt="Ploi" /></a>
+
+
 
 
 
