@@ -52,7 +52,7 @@ i have a lot of tools and lanauages so let's category it
 
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" /></a>
 <a href="#"><img align="center"  height="40px" src="https://forenda.com.tr/wp-content/uploads/2020/10/mongodb-logo.png" alt="MongoDB" /></a>
-<a href="#"><img align="center"  height="40px" src="http://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png" alt="Firebase" /></a>
+<a href="#"><img align="center"  height="40px" src="https://symbols.getvecta.com/stencil_3/3_firebase.39b6ba3587.png" alt="Firebase" /></a>
 
 ### UI & UX
 
