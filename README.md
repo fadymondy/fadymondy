@@ -21,7 +21,7 @@
 
 ## Stack & Languages
 
-<img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php" />
+![PHP](https://cdn-icons-png.flaticon.com/512/5968/5968332.png)
 
 ## Counters
 
