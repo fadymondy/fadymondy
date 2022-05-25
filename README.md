@@ -26,6 +26,7 @@ i have a lot of tools and lanauages so let's category it
 ### BACK-END
 
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" /></a>
+<a href="#"><img align="center"  height="40px" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="NodeJs" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" alt="Ruby" /></a>
