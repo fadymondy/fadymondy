@@ -21,15 +21,27 @@
 
 ## Stack & Languages & Tools
 
+i have a lot of tools and lanauages so let's category it
+
+### BACK-END
+
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" /></a>
-<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="NodeJs" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" /></a>
+
+### FRONT-END
+
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HMTL5" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" /></a>
-<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" /></a>
-<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" /></a>
+
+### DATABASE
+
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" /></a>
 
+### UI & UX
+
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" /></a>
 
 ## Counters
 
