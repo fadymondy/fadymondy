@@ -23,8 +23,15 @@
 
 i have a lot of tools and lanauages so let's category it
 
-### BACK-END
+### TALL STACK
 
+<a href="#"><img align="center"  height="40px" src="https://tailwindcss.com/favicons/apple-touch-icon.png" alt="TailwindCSS" /></a>
+<a href="#"><img align="center"  height="40px" src="https://alpinejs.dev/favicon.png" alt="AlpineJS" /></a>
+<a href="#"><img align="center"  height="40px" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" /></a>
+<a href="#"><img align="center"  height="40px" src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" /></a>
+
+
+### BACK-END
 
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" /></a>
 <a href="#"><img align="center"  height="40px" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" /></a>
