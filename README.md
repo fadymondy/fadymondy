@@ -25,9 +25,9 @@ i have a lot of tools and lanauages so let's category it
 
 ### BACK-END
 
-<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968379.png" alt="PHP" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="NodeJs" /></a>
-<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968396.png" alt="Python" /></a>
 
 ### FRONT-END
 
