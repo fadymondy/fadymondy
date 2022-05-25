@@ -60,8 +60,8 @@ i have a lot of tools and lanauages so let's category it
 
 ### DEVOPS
 
-
 <a href="#"><img align="center"  height="40px" src="https://cpanel.net/wp-content/themes/cPbase/assets/img/apple-touch-icon.png" alt="CPanel" /></a>
+<a href="#"><img align="center"  height="40px" src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png" alt="AWS" /></a>
 
 ### GRAPHICS
 
