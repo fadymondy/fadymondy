@@ -83,7 +83,7 @@ i have a lot of tools and lanauages so let's category it
 
 ## Counters
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3x1io&show_icons=true&locale=en" alt="3x1io" /></p>
+<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=3x1io&show_icons=true&locale=en" alt="3x1io" /></p>
 
 
 <!---
