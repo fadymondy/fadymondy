@@ -13,7 +13,7 @@
 <a href="https://twitter.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" alt="twitter" /></a>
 <a href="https://www.youtube.com/channel/UCRYxB09Uk36PIQDeTGMMsTQ" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="youtube" /></a>
 <a href="https://www.linkedin.com/in/engfadymondy/" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" /></a>
-<a href="https://www.linkedin.com/in/engfadymondy/" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" /></a>
+<a href="https://www.behance.net/3x1" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174837.png" alt="behance" /></a>
 <a href="https://wa.me/+201207860084" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174879.png" alt="whatsapp" /></a>
 
 ## Counters
