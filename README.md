@@ -30,6 +30,13 @@ i have a lot of tools and lanauages so let's category it
 <a href="#"><img align="center"  height="40px" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" /></a>
 <a href="#"><img align="center"  height="40px" src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" /></a>
 
+### VILT STACK
+
+<a href="#"><img align="center"  height="40px" src="https://user-images.githubusercontent.com/11937812/170235521-9c199266-9527-434a-91c5-ae7a23534534.png" alt="VueJs" /></a>
+<a href="#"><img align="center"  height="40px" src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" alt="InertiaJs" /></a>
+<a href="#"><img align="center"  height="40px" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" /></a>
+<a href="#"><img align="center"  height="40px" src="https://tailwindcss.com/favicons/apple-touch-icon.png" alt="TailwindCSS" /></a>
+
 
 ### BACK-END
 
@@ -46,7 +53,7 @@ i have a lot of tools and lanauages so let's category it
 
 ### FRONT-END
 
-<a href="#"><img align="center"  height="40px" src="https://user-images.githubusercontent.com/11937812/170235521-9c199266-9527-434a-91c5-ae7a23534534.png" alt="HMTL5" /></a>
+<a href="#"><img align="center"  height="40px" src="https://user-images.githubusercontent.com/11937812/170235521-9c199266-9527-434a-91c5-ae7a23534534.png" alt="VueJs" /></a>
 <a href="#"><img align="center"  height="40px" src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" alt="InertiaJs" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://nuxtjs.org/_nuxt/icons/icon_64x64.a3b4ce.png" alt="NuxtJS" /></a>
