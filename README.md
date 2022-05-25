@@ -38,8 +38,6 @@ i have a lot of tools and lanauages so let's category it
 
 ### FRONT-END
 
-
-
 <a href="#"><img align="center"  height="40px" src="https://user-images.githubusercontent.com/11937812/170235521-9c199266-9527-434a-91c5-ae7a23534534.png" alt="HMTL5" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://nuxtjs.org/_nuxt/icons/icon_64x64.a3b4ce.png" alt="NuxtJS" /></a>
@@ -53,6 +51,8 @@ i have a lot of tools and lanauages so let's category it
 ### DATABASE
 
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" /></a>
+<a href="#"><img align="center"  height="40px" src="https://forenda.com.tr/wp-content/uploads/2020/10/mongodb-logo.png" alt="MongoDB" /></a>
+<a href="#"><img align="center"  height="40px" src="http://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png" alt="Firebase" /></a>
 
 ### UI & UX
 
