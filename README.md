@@ -38,12 +38,15 @@ i have a lot of tools and lanauages so let's category it
 
 ### FRONT-END
 
+
 <a href="#"><img align="center"  height="40px" src="https://user-images.githubusercontent.com/11937812/170235521-9c199266-9527-434a-91c5-ae7a23534534.png" alt="HMTL5" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://nuxtjs.org/_nuxt/icons/icon_64x64.a3b4ce.png" alt="NuxtJS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://reactjs.org/logo-180x180.png" alt="ReactJS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968218.png" alt="ElectronJs" /></a>
 <a href="#"><img align="center"  height="40px" src="https://webpack.js.org/icon-pwa-512x512.d3dae4189855b3a72ff9.png" alt="webpackJs" /></a>
+<a href="#"><img align="center"  height="40px" src="https://tailwindcss.com/favicons/apple-touch-icon.png" alt="TailwindCSS" /></a>
+<a href="#"><img align="center"  height="40px" src="https://getbootstrap.com/docs/5.2/assets/img/favicons/apple-touch-icon.png" alt="Bootstrap" /></a>
 
 ### DATABASE
 
