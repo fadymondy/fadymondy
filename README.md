@@ -21,7 +21,10 @@
 
 ## Stack & Languages
 
-![PHP](https://cdn-icons-png.flaticon.com/512/5968/5968332.png)
+<img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" />
+<img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" />
+<img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="JS" />
+
 
 ## Counters
 
