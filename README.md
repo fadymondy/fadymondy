@@ -16,6 +16,8 @@
 <a href="https://www.behance.net/3x1" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494669.png?token=exp=1653470960~hmac=4f66a2139ea01f8f5d59173178956b7d" alt="behance" /></a>
 <a href="https://wa.me/+201207860084" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494494.png?token=exp=1653470960~hmac=32270c893650870a6d2e11e2f81b422d" alt="whatsapp" /></a>
 <a href="https://discord.gg/mTWWNgtr" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494732.png?token=exp=1653470960~hmac=eaa3006134f90c5bc3a4f43da4f0f89e" alt="discord" /></a>
+<a href="https://dribbble.com/3x1" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494575.png?token=exp=1653470960~hmac=d59c91561c2594e13f9815375960127b" alt="dribbble" /></a>
+<a href="https://3x1.io" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494563.png?token=exp=1653471246~hmac=29906607dabcbb4a2d756801e82e5ec2" alt="3x1" /></a>
 
 ## Counters
 
