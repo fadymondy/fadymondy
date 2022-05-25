@@ -38,6 +38,7 @@ i have a lot of tools and lanauages so let's category it
 
 ### FRONT-END
 
+<a href="#"><img align="center"  height="40px" src="https://user-images.githubusercontent.com/11937812/170235521-9c199266-9527-434a-91c5-ae7a23534534.png" alt="HMTL5" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HMTL5" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" /></a>
