@@ -8,6 +8,7 @@
 
 <a href="https://www.facebook.com/3x1io" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="facebook" /></a>
 <a href="https://www.instagram.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" /></a>
+<a href="https://twitter.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" alt="twitter" /></a>
 
 ## Counters
 
