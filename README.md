@@ -19,13 +19,14 @@
 <a href="https://dribbble.com/3x1" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494575.png?token=exp=1653470960~hmac=d59c91561c2594e13f9815375960127b" alt="dribbble" /></a>
 <a href="https://3x1.io" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494563.png?token=exp=1653471246~hmac=29906607dabcbb4a2d756801e82e5ec2" alt="3x1" /></a>
 
-## Stack & Languages
+## Stack & Languages & Tools
 
-<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" />**PHP**</a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="NodeJs" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HMTL5" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" /></a>
 
 
 ## Counters
