@@ -1,3 +1,5 @@
+## About Me
+
 - 👋 Hi, I’m Fady Mondy
 - 👀 I’m interested in make the world more digital
 - 🌱 I’m currently learning TALL stack & VILT stack
@@ -6,9 +8,10 @@
 
 ## Socail Media
 
-<a href="https://www.facebook.com/3x1io" target="_blank" style="padding-left: 5px; padding-right: 5px"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="facebook" /></a>
-<a href="https://www.instagram.com/engfadymondy" target="_blank" style="padding-left: 5px; padding-right: 5px"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" /></a>
-<a href="https://twitter.com/engfadymondy" target="_blank" style="padding-left: 5px; padding-right: 5px"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" alt="twitter" /></a>
+<a href="https://www.facebook.com/3x1io" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="facebook" /></a>
+<a href="https://www.instagram.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" /></a>
+<a href="https://twitter.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" alt="twitter" /></a>
+<a href="https://www.youtube.com/channel/UCRYxB09Uk36PIQDeTGMMsTQ" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="youtube" /></a>
 
 ## Counters
 
