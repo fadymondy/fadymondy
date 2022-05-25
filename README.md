@@ -8,8 +8,8 @@
 
 ## Socail Media
 
-<a href="https://www.facebook.com/3x1io" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536394.png?token=exp=1653470856~hmac=1117d488ff1875cfbb4e9e1f924bcd52" alt="facebook" /></a>
-<a href="https://www.instagram.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" /></a>
+<a href="https://www.facebook.com/3x1io" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494475.png?token=exp=1653470960~hmac=614b9d6f5f652f96df35693b47b81605" alt="facebook" /></a>
+<a href="https://www.instagram.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494488.png?token=exp=1653470960~hmac=28479b9fac1621d0229010c8a59bc8a3" alt="instagram" /></a>
 <a href="https://twitter.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" alt="twitter" /></a>
 <a href="https://www.youtube.com/channel/UCRYxB09Uk36PIQDeTGMMsTQ" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="youtube" /></a>
 <a href="https://www.linkedin.com/in/engfadymondy/" target="_blank"><img align="center"  width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" /></a>
