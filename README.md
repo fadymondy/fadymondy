@@ -66,6 +66,9 @@ i have a lot of tools and lanauages so let's category it
 <a href="#"><img align="center"  height="40px" src="https://control-webpanel.com/wp-content/uploads/2019/03/cropped-favicon-180x180.png" alt="CWP" /></a>
 <a href="#"><img align="center"  height="40px" src="https://letsencrypt.org/images/le-logo-twitter-noalpha.png" alt="Let's Encrypt" /></a>
 <a href="#"><img align="center"  height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="CloudFlare" /></a>
+<a href="#"><img align="center"  height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" /></a>
+
+
 
 
 
