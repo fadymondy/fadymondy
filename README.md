@@ -72,6 +72,13 @@ i have a lot of tools and lanauages so let's category it
 
 ### GRAPHICS
 
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Photoshop" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" alt="Illustrator" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" alt="Premiere" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" alt="After Effects" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968559.png" alt="XD" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968458.png" alt="Dimension" /></a>
+
 ## Counters
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3x1io&show_icons=true&locale=en" alt="3x1io" /></p>
