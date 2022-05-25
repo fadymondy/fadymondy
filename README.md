@@ -21,11 +21,11 @@
 
 ## Stack & Languages
 
-<a href="#"><img align="center"  hight="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" /></a>
-<a href="#"><img align="center"  hight="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" /></a>
-<a href="#"><img align="center"  hight="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="NodeJs" /></a>
-<a href="#"><img align="center"  hight="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HMTL5" /></a>
-<a href="#"><img align="center"  hight="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="NodeJs" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HMTL5" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" /></a>
 
 
 ## Counters
