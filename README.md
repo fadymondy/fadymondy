@@ -43,6 +43,7 @@ i have a lot of tools and lanauages so let's category it
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://nuxtjs.org/_nuxt/icons/icon_64x64.a3b4ce.png" alt="NuxtJS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://reactjs.org/logo-180x180.png" alt="ReactJS" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968218.png" alt="ElectronJs" /></a>
 
 
 ### DATABASE
