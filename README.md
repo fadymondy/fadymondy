@@ -27,6 +27,8 @@
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HMTL5" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" /></a>
+<a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" /></a>
 
 
 ## Counters
