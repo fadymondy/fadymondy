@@ -58,6 +58,13 @@ i have a lot of tools and lanauages so let's category it
 
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" /></a>
 
+### DEVOPS
+
+
+<a href="#"><img align="center"  height="40px" src="https://cpanel.net/wp-content/themes/cPbase/assets/img/apple-touch-icon.png" alt="CPanel" /></a>
+
+### GRAPHICS
+
 ## Counters
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3x1io&show_icons=true&locale=en" alt="3x1io" /></p>
