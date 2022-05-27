@@ -1,3 +1,7 @@
+## Buy me a coffee
+
+<a href="https://www.buymeacoffee.com/3x1io">buymeacoffee</a>
+
 ## About Me
 
 - 👋 Hi, I’m Fady Mondy
