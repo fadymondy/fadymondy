@@ -21,9 +21,9 @@
 <a href="https://www.linkedin.com/in/engfadymondy/" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/linkedin.png" alt="linkedin" /></a>
 <a href="https://www.behance.net/3x1" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/behance.png" alt="behance" /></a>
 <a href="https://wa.me/+201207860084" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/whatsapp.png" alt="whatsapp" /></a>
-<a href="https://discord.gg/mTWWNgtr" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494732.png?token=exp=1653470960~hmac=eaa3006134f90c5bc3a4f43da4f0f89e" alt="discord" /></a>
-<a href="https://dribbble.com/3x1" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494575.png?token=exp=1653470960~hmac=d59c91561c2594e13f9815375960127b" alt="dribbble" /></a>
-<a href="https://3x1.io" target="_blank"><img align="center"  width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494563.png?token=exp=1653471246~hmac=29906607dabcbb4a2d756801e82e5ec2" alt="3x1" /></a>
+<a href="https://discord.gg/mTWWNgtr" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/discord.png" alt="discord" /></a>
+<a href="https://dribbble.com/3x1" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/dribbble.png" alt="dribbble" /></a>
+<a href="https://3x1.io" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/reverbnation.png" alt="3x1" /></a>
 
 ## Stack & Languages & Tools
 
