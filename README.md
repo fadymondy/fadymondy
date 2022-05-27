@@ -22,7 +22,7 @@
 <a href="https://www.behance.net/3x1" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/behance.png" alt="behance" /></a>
 <a href="https://wa.me/+201207860084" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/whatsapp.png" alt="whatsapp" /></a>
 <a href="https://discord.gg/mTWWNgtr" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/discord.png" alt="discord" /></a>
-<a href="https://dribbble.com/3x1" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/dribbble.png" alt="dribbble" /></a>
+<a href="https://dribbble.com/3x1" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/dribble.png" alt="dribbble" /></a>
 <a href="https://3x1.io" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/reverbnation.png" alt="3x1" /></a>
 
 ## Stack & Languages & Tools
