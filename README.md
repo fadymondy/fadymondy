@@ -1,6 +1,8 @@
 ## Buy me a coffee
 
-<a href="https://www.buymeacoffee.com/3x1io">buymeacoffee</a>
+<a href="https://www.buymeacoffee.com/3x1io">
+<img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wNS9XVEVNMUR0Vk12QXJVOVp2LmpwZWdAMzAwd18wZS53ZWJw&creator=Fady+Mondy&is_creating=TALL%20stack%20&%20VILT%20stack%20Packages&design_code=1&design_color=%23BD5FFF&slug=3x1io" width="50%" alt="buymeacoffee" />
+</a>
 
 ## About Me
 
