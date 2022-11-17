@@ -85,6 +85,7 @@ i have a lot of tools and lanauages so let's category it
 
 ### DEVOPS
 
+<a href="#"><img align="center"  height="40px" src="https://hkweb.design/wp-content/uploads/2021/04/hkw-cloudpanel-logo-text.jpg" alt="Cloudpanel" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cpanel.net/wp-content/themes/cPbase/assets/img/apple-touch-icon.png" alt="CPanel" /></a>
 <a href="#"><img align="center"  height="40px" src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png" alt="AWS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cdn.freebiesupply.com/logos/large/2x/centos-1-logo-png-transparent.png" alt="CentOS" /></a>
