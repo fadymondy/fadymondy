@@ -83,16 +83,36 @@ i have a lot of tools and lanauages so let's category it
 
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" /></a>
 
+### Third-Party Services
+
+<a href="#"><img align="center"  height="40px" src="https://b.stripecdn.com/site-statics-srv/assets/assets/img/v3/home/twitter-80afaafee00af0bc21d345164a2a9bb6.png" alt="Strip Payment Gateway" /></a>
+<a href="#"><img align="center"  height="40px" src="https://site.paytabs.com/wp-content/uploads/2021/06/PayTabs-Logos_P-Mark.png" alt="PayTabs Payment Gateway" /></a>
+<a href="#"><img align="center"  height="40px" src="https://yt3.ggpht.com/ytc/AMLnZu_-7D1MqNq1R5TgK1zo-55ODNbDu_OOH324t-eCdA=s900-c-k-c0x00ffffff-no-rj" alt="Taps Payment Gateway" /></a>
+<a href="#"><img align="center"  height="40px" src="https://play-lh.googleusercontent.com/6FiNx8I1FYk8DFnIxPy32vvV0E-YszW7DYNh9kCqGOw0H65GZ0FUYuhPgJtcYsYaofU=w240-h480-rw" alt="PayMob Payment Gateway" /></a>
+<a href="#"><img align="center"  height="40px" src="https://www.saashub.com/images/app/service_logos/18/9f056ffb17ac/large.png?1541389213" alt="MessageBird SMS Gateway" /></a>
+<a href="#"><img align="center"  height="40px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xqeOuzyF--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/55/b2f57c88-dea2-4bd6-8310-58af85a9c2c2.png" alt="Pusher Realtime Gateway" /></a>
+<a href="#"><img align="center"  height="40px" src="https://avatars.githubusercontent.com/u/70626942?s=280&v=4" alt="Soketi Websoket Connection" /></a>
+
+### OS
+
+<a href="#"><img align="center"  height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" alt="MacOS" /></a>
+<a href="#"><img align="center"  height="40px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" /></a>
+<a href="#"><img align="center"  height="40px" src="https://seeklogo.com/images/C/centos-logo-494F57D973-seeklogo.com.png" alt="CentOS" /></a>
+<a href="#"><img align="center"  height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="WindowsOS" /></a>
+
+### IOT
+
+<a href="#"><img align="center"  height="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino" /></a>
+<a href="#"><img align="center"  height="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" alt="Raspberry PI" /></a>
+
 ### DEVOPS
 
 <a href="#"><img align="center"  height="40px" src="https://hkweb.design/wp-content/uploads/2021/04/hkw-cloudpanel-logo-text.jpg" alt="Cloudpanel" /></a>
 <a href="#"><img align="center"  height="40px" src="https://cpanel.net/wp-content/themes/cPbase/assets/img/apple-touch-icon.png" alt="CPanel" /></a>
 <a href="#"><img align="center"  height="40px" src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png" alt="AWS" /></a>
-<a href="#"><img align="center"  height="40px" src="https://cdn.freebiesupply.com/logos/large/2x/centos-1-logo-png-transparent.png" alt="CentOS" /></a>
 <a href="#"><img align="center"  height="40px" src="https://control-webpanel.com/wp-content/uploads/2019/03/cropped-favicon-180x180.png" alt="CWP" /></a>
 <a href="#"><img align="center"  height="40px" src="https://letsencrypt.org/images/le-logo-twitter-noalpha.png" alt="Let's Encrypt" /></a>
 <a href="#"><img align="center"  height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="CloudFlare" /></a>
-<a href="#"><img align="center"  height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" /></a>
 <a href="#"><img align="center"  height="40px" src="https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1566913083/catalog/laravel-forge/icon128x128.png" alt="Laravel Forge" /></a>
 <a href="#"><img align="center"  height="40px" src="https://ploi.io/images/ploi256blue.jpg" alt="Ploi" /></a>
 
