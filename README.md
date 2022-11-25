@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning TALL stack & VILT stack
 - 💞️ I’m looking to collaborate on Filament PHP & VILT
 - 📫 How to reach me /whatsapp: +201207860084/Email: info@3x1.io
-- 📝 My Tech Blog [Tech](https://github.com/3x1io/blog)
-- 📝 My Theology Blog [Theology](https://github.com/3x1io/theology)
+- 📝 My Tech Blog [Tech](https://3x1.io)
 
 ## Socail Media
 
