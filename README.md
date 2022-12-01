@@ -1,5 +1,14 @@
 ## About Me
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=3x1io&label=Profile%20views&color=0e75b6&style=flat" alt="3x1io" />
+    <br></br>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=3x1io&column=7" alt="3x1io" />
+    </a>
+</p>
+
+
 - 👋 Hi, I’m Fady Mondy
 - 👀 I’m interested in make the world more digital
 - 🌱 I’m currently learning TALL stack & VILT stack
