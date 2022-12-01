@@ -134,10 +134,8 @@ i have a lot of tools and lanauages so let's category it
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968458.png" alt="Dimension" /></a>
 
 ## Counters
-
-<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=3x1io&show_icons=true&locale=en" alt="3x1io" /></p>
-
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3x1io&show_icons=true&locale=en)](https://github-readme-stats.vercel.app)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3x1io)](https://git.io/streak-stats)
 <!---
 3x1io/3x1io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
