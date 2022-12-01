@@ -3,12 +3,18 @@
 ## About Me
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=3x1io&label=Profile%20views&color=0e75b6&style=flat" alt="3x1io" />
-    <br></br>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=3x1io&column=7" alt="3x1io" />
+    <a href="https://www.twitter.com/engfadymondy" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/twitter/follow/engfadymondy?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"/>
+    </a>
+    <a href="https://www.github.com/3x1io" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/github/followers/3x1io?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" />
+    </a>
+    <a href="https://github.com/3x1io">
+        <img src="https://komarev.com/ghpvc/?username=3x1io&style=for-the-badge">
     </a>
 </p>
+
+
 
 
 - 👋 Hi, I’m Fady Mondy
@@ -139,10 +145,9 @@ i have a lot of tools and lanauages so let's category it
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3x1io)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3x1io&theme=default)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3x1io&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3x1io&theme=default)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3x1io&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=3x1io&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3x1io&theme=default&utcOffset=8)
 
