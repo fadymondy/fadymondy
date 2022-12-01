@@ -134,10 +134,15 @@ i have a lot of tools and lanauages so let's category it
 <a href="#"><img align="center"  height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968458.png" alt="Dimension" /></a>
 
 ## Counters
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3x1io&show_icons=true&locale=en)](https://github-readme-stats.vercel.app)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3x1io)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3x1io)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3x1io&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3x1io&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3x1io&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=3x1io&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3x1io&theme=default&utcOffset=8)
 
 <!---
 3x1io/3x1io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
