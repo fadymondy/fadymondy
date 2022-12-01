@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=3x1io&label=Profile%20views&color=0e75b6&style=flat" alt="3x1io" />
     <br></br>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=3x1io&column=12" alt="3x1io" />
+        <img src="https://github-profile-trophy.vercel.app/?username=3x1io&column=6" alt="3x1io" />
     </a>
 </p>
 
