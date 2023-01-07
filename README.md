@@ -26,16 +26,16 @@
 
 ## Socail Media
 
-<a href="https://www.facebook.com/3x1io" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/facebook.png" alt="facebook" /></a>
-<a href="https://www.instagram.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/instagram.png" alt="instagram" /></a>
-<a href="https://twitter.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/twitter.png" alt="twitter" /></a>
-<a href="https://www.youtube.com/channel/UCRYxB09Uk36PIQDeTGMMsTQ" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/youtube.png" alt="youtube" /></a>
-<a href="https://www.linkedin.com/in/engfadymondy/" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/linkedin.png" alt="linkedin" /></a>
-<a href="https://www.behance.net/3x1" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/behance.png" alt="behance" /></a>
-<a href="https://wa.me/+201207860084" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/whatsapp.png" alt="whatsapp" /></a>
-<a href="https://discord.gg/mTWWNgtr" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/discord.png" alt="discord" /></a>
-<a href="https://dribbble.com/3x1" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/dribble.png" alt="dribbble" /></a>
-<a href="https://3x1.io" target="_blank"><img align="center"  width="40px" src="https://3x1.io/storage/social/reverbnation.png" alt="3x1" /></a>
+<a href="https://www.facebook.com/3x1io" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="facebook" /></a>
+<a href="https://www.instagram.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="instagram" /></a>
+<a href="https://twitter.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="twitter" /></a>
+<a href="https://www.youtube.com/channel/UCRYxB09Uk36PIQDeTGMMsTQ" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" alt="youtube" /></a>
+<a href="https://www.linkedin.com/in/engfadymondy/" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="linkedin" /></a>
+<a href="https://www.behance.net/3x1" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Behance.svg" alt="behance" /></a>
+<a href="https://wa.me/+201207860084" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="whatsapp" /></a>
+<a href="https://discord.gg/mTWWNgtr" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" alt="discord" /></a>
+<a href="https://dribbble.com/3x1" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Dribbble.svg" alt="dribbble" /></a>
+<a href="https://3x1.io" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Wordpress.svg" alt="3x1" /></a>
 
 ## Stack & Languages & Tools
 
