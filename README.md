@@ -3,7 +3,7 @@
 ## About Me
 
 <p align="left">
-    <a href="https://www.twitter.com/engfadymondy" target="_blank" rel="noreferrer">
+    <a href="https://twitter.com/engfadymondy" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/twitter/follow/engfadymondy?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"/>
     </a>
     <a href="https://www.github.com/3x1io" target="_blank" rel="noreferrer">
