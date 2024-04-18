@@ -81,55 +81,6 @@
 
 ### FilamentPHP
 
-[Filament Plugins](https://www.github.com/tomatophp/filament-plugins)
-
-[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-plugins/version.svg)](https://packagist.org/packages/tomatophp/filament-plugins)
-[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-plugins/require/php)](https://packagist.org/packages/tomatophp/filament-plugins)
-[![License](https://poser.pugx.org/tomatophp/filament-plugins/license.svg)](https://packagist.org/packages/tomatophp/filament-plugins)
-[![Downloads](https://poser.pugx.org/tomatophp/filament-plugins/d/total.svg)](https://packagist.org/packages/tomatophp/filament-plugins)
-
-[Filament Accounts](https://www.github.com/tomatophp/filament-accounts)
-
-[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-accounts/version.svg)](https://packagist.org/packages/tomatophp/filament-accounts)
-[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-accounts/require/php)](https://packagist.org/packages/tomatophp/filament-accounts)
-[![License](https://poser.pugx.org/tomatophp/filament-accounts/license.svg)](https://packagist.org/packages/tomatophp/filament-accounts)
-[![Downloads](https://poser.pugx.org/tomatophp/filament-accounts/d/total.svg)](https://packagist.org/packages/tomatophp/filament-accounts)
-
-[Filament Wallet](https://www.github.com/tomatophp/filament-wallet)
-
-[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-wallet/version.svg)](https://packagist.org/packages/tomatophp/filament-wallet)
-[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-wallet/require/php)](https://packagist.org/packages/tomatophp/filament-wallet)
-[![License](https://poser.pugx.org/tomatophp/filament-wallet/license.svg)](https://packagist.org/packages/tomatophp/filament-wallet)
-[![Downloads](https://poser.pugx.org/tomatophp/filament-wallet/d/total.svg)](https://packagist.org/packages/tomatophp/filament-wallet)
-
-[Filament Types](https://www.github.com/tomatophp/filament-types)
-
-[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-types/version.svg)](https://packagist.org/packages/tomatophp/filament-types)
-[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-types/require/php)](https://packagist.org/packages/tomatophp/filament-types)
-[![License](https://poser.pugx.org/tomatophp/filament-types/license.svg)](https://packagist.org/packages/tomatophp/filament-types)
-[![Downloads](https://poser.pugx.org/tomatophp/filament-types/d/total.svg)](https://packagist.org/packages/tomatophp/filament-types)
-
-[Filament Menus](https://www.github.com/tomatophp/filament-menus)
-
-[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-menus/version.svg)](https://packagist.org/packages/tomatophp/filament-menus)
-[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-menus/require/php)](https://packagist.org/packages/tomatophp/filament-menus)
-[![License](https://poser.pugx.org/tomatophp/filament-menus/license.svg)](https://packagist.org/packages/tomatophp/filament-menus)
-[![Downloads](https://poser.pugx.org/tomatophp/filament-menus/d/total.svg)](https://packagist.org/packages/tomatophp/filament-menus)
-
-[Filament Settings Hub](https://www.github.com/tomatophp/filament-settings-hub)
-
-[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-settings-hub/version.svg)](https://packagist.org/packages/tomatophp/filament-settings-hub)
-[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-settings-hub/require/php)](https://packagist.org/packages/tomatophp/filament-settings-hub)
-[![License](https://poser.pugx.org/tomatophp/filament-settings-hub/license.svg)](https://packagist.org/packages/tomatophp/filament-settings-hub)
-[![Downloads](https://poser.pugx.org/tomatophp/filament-settings-hub/d/total.svg)](https://packagist.org/packages/tomatophp/filament-settings-hub)
-
-[Filament Locations](https://www.github.com/tomatophp/filament-locations)
-
-[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-locations/version.svg)](https://packagist.org/packages/tomatophp/filament-locations)
-[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-locations/require/php)](https://packagist.org/packages/tomatophp/filament-locations)
-[![License](https://poser.pugx.org/tomatophp/filament-locations/license.svg)](https://packagist.org/packages/tomatophp/filament-locations)
-[![Downloads](https://poser.pugx.org/tomatophp/filament-locations/d/total.svg)](https://packagist.org/packages/tomatophp/filament-locations)
-
 [Filament Users V2](https://www.github.com/tomatophp/filament-users)
 
 [![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-users/version.svg)](https://packagist.org/packages/tomatophp/filament-users)
@@ -159,7 +110,61 @@
 [![License](https://poser.pugx.org/3x1io/filament-translations/license.svg)](https://packagist.org/packages/3x1io/filament-translations)
 [![Downloads](https://poser.pugx.org/3x1io/filament-translations/d/total.svg)](https://packagist.org/packages/3x1io/filament-translations)
 
+[Filament Plugins](https://www.github.com/tomatophp/filament-plugins)
 
+[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-plugins/version.svg)](https://packagist.org/packages/tomatophp/filament-plugins)
+[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-plugins/require/php)](https://packagist.org/packages/tomatophp/filament-plugins)
+[![License](https://poser.pugx.org/tomatophp/filament-plugins/license.svg)](https://packagist.org/packages/tomatophp/filament-plugins)
+[![Downloads](https://poser.pugx.org/tomatophp/filament-plugins/d/total.svg)](https://packagist.org/packages/tomatophp/filament-plugins)
+
+[Filament Accounts](https://www.github.com/tomatophp/filament-accounts)
+
+[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-accounts/version.svg)](https://packagist.org/packages/tomatophp/filament-accounts)
+[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-accounts/require/php)](https://packagist.org/packages/tomatophp/filament-accounts)
+[![License](https://poser.pugx.org/tomatophp/filament-accounts/license.svg)](https://packagist.org/packages/tomatophp/filament-accounts)
+[![Downloads](https://poser.pugx.org/tomatophp/filament-accounts/d/total.svg)](https://packagist.org/packages/tomatophp/filament-accounts)
+
+[Filament Wallet](https://www.github.com/tomatophp/filament-wallet)
+
+[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-wallet/version.svg)](https://packagist.org/packages/tomatophp/filament-wallet)
+[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-wallet/require/php)](https://packagist.org/packages/tomatophp/filament-wallet)
+[![License](https://poser.pugx.org/tomatophp/filament-wallet/license.svg)](https://packagist.org/packages/tomatophp/filament-wallet)
+[![Downloads](https://poser.pugx.org/tomatophp/filament-wallet/d/total.svg)](https://packagist.org/packages/tomatophp/filament-wallet)
+
+[Filament Alerts](https://www.github.com/tomatophp/filament-alerts)
+
+[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-alerts/version.svg)](https://packagist.org/packages/tomatophp/filament-alerts)
+[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-alerts/require/php)](https://packagist.org/packages/tomatophp/filament-alerts)
+[![License](https://poser.pugx.org/tomatophp/filament-alerts/license.svg)](https://packagist.org/packages/tomatophp/filament-alerts)
+[![Downloads](https://poser.pugx.org/tomatophp/filament-alerts/d/total.svg)](https://packagist.org/packages/tomatophp/filament-alerts)
+
+[Filament Types](https://www.github.com/tomatophp/filament-types)
+
+[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-types/version.svg)](https://packagist.org/packages/tomatophp/filament-types)
+[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-types/require/php)](https://packagist.org/packages/tomatophp/filament-types)
+[![License](https://poser.pugx.org/tomatophp/filament-types/license.svg)](https://packagist.org/packages/tomatophp/filament-types)
+[![Downloads](https://poser.pugx.org/tomatophp/filament-types/d/total.svg)](https://packagist.org/packages/tomatophp/filament-types)
+
+[Filament Menus](https://www.github.com/tomatophp/filament-menus)
+
+[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-menus/version.svg)](https://packagist.org/packages/tomatophp/filament-menus)
+[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-menus/require/php)](https://packagist.org/packages/tomatophp/filament-menus)
+[![License](https://poser.pugx.org/tomatophp/filament-menus/license.svg)](https://packagist.org/packages/tomatophp/filament-menus)
+[![Downloads](https://poser.pugx.org/tomatophp/filament-menus/d/total.svg)](https://packagist.org/packages/tomatophp/filament-menus)
+
+[Filament Settings Hub](https://www.github.com/tomatophp/filament-settings-hub)
+
+[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-settings-hub/version.svg)](https://packagist.org/packages/tomatophp/filament-settings-hub)
+[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-settings-hub/require/php)](https://packagist.org/packages/tomatophp/filament-settings-hub)
+[![License](https://poser.pugx.org/tomatophp/filament-settings-hub/license.svg)](https://packagist.org/packages/tomatophp/filament-settings-hub)
+[![Downloads](https://poser.pugx.org/tomatophp/filament-settings-hub/d/total.svg)](https://packagist.org/packages/tomatophp/filament-settings-hub)
+
+[Filament Locations](https://www.github.com/tomatophp/filament-locations)
+
+[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-locations/version.svg)](https://packagist.org/packages/tomatophp/filament-locations)
+[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-locations/require/php)](https://packagist.org/packages/tomatophp/filament-locations)
+[![License](https://poser.pugx.org/tomatophp/filament-locations/license.svg)](https://packagist.org/packages/tomatophp/filament-locations)
+[![Downloads](https://poser.pugx.org/tomatophp/filament-locations/d/total.svg)](https://packagist.org/packages/tomatophp/filament-locations)
 
 ## Social Media
 
