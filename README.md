@@ -30,7 +30,7 @@
 
 [TomatoPHP Kit](https://www.github.com/tomatophp/tomato)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/tomatophp/tomato)
+![GitHub Repo stars](https://img.shields.io/github/stars/tomatophp/tomato?style=flat)
 [![Latest Stable Version](https://poser.pugx.org/tomatophp/tomato/version.svg)](https://packagist.org/packages/tomatophp/tomato)
 [![PHP Version Require](http://poser.pugx.org/tomatophp/tomato/require/php)](https://packagist.org/packages/tomatophp/tomato)
 [![License](https://poser.pugx.org/tomatophp/tomato/license.svg)](https://packagist.org/packages/tomatophp/tomato)
