@@ -70,7 +70,7 @@
 [![PHP Version Require](http://poser.pugx.org/tomatophp/tomato-notifications/require/php)](https://packagist.org/packages/tomatophp/tomato-notifications)
 [![License](https://poser.pugx.org/tomatophp/tomato-notifications/license.svg)](https://packagist.org/packages/tomatophp/tomato-notifications)
 [![Downloads](https://poser.pugx.org/tomatophp/tomato-notifications/d/total.svg)](https://packagist.org/packages/tomatophp/tomato-notifications)
-[![GitHub Repo stars]((https://img.shields.io/github/stars/tomatophp/tomato-notifications?style=flat)](https://packagist.org/packages/tomatophp/tomato-notifications)
+[![GitHub Repo stars](https://img.shields.io/github/stars/tomatophp/tomato-notifications?style=flat)](https://packagist.org/packages/tomatophp/tomato-notifications)
 
 
 [Tomato Settings](https://www.github.com/tomatophp/tomato-settings)
@@ -79,7 +79,7 @@
 [![PHP Version Require](http://poser.pugx.org/tomatophp/tomato-settings/require/php)](https://packagist.org/packages/tomatophp/tomato-settings)
 [![License](https://poser.pugx.org/tomatophp/tomato-settings/license.svg)](https://packagist.org/packages/tomatophp/tomato-settings)
 [![Downloads](https://poser.pugx.org/tomatophp/tomato-settings/d/total.svg)](https://packagist.org/packages/tomatophp/tomato-settings)
-[![GitHub Repo stars]((https://img.shields.io/github/stars/tomatophp/tomato-settings?style=flat)](https://packagist.org/packages/tomatophp/tomato-settings)
+[![GitHub Repo stars](https://img.shields.io/github/stars/tomatophp/tomato-settings?style=flat)](https://packagist.org/packages/tomatophp/tomato-settings)
 
 
 
