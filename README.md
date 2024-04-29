@@ -34,7 +34,7 @@
 [![PHP Version Require](http://poser.pugx.org/tomatophp/tomato/require/php)](https://packagist.org/packages/tomatophp/tomato)
 [![License](https://poser.pugx.org/tomatophp/tomato/license.svg)](https://packagist.org/packages/tomatophp/tomato)
 [![Downloads](https://poser.pugx.org/tomatophp/tomato/d/total.svg)](https://packagist.org/packages/tomatophp/tomato)
-[![GitHub Repo stars]((https://img.shields.io/github/stars/tomatophp/tomato?style=flat)](https://packagist.org/packages/tomatophp/tomato)
+[![GitHub Repo stars](https://img.shields.io/github/stars/tomatophp/tomato?style=flat)](https://packagist.org/packages/tomatophp/tomato)
 
 [Tomato Admin](https://www.github.com/tomatophp/tomato-admin)
 
@@ -42,7 +42,7 @@
 [![PHP Version Require](http://poser.pugx.org/tomatophp/tomato-admin/require/php)](https://packagist.org/packages/tomatophp/tomato-admin)
 [![License](https://poser.pugx.org/tomatophp/tomato-admin/license.svg)](https://packagist.org/packages/tomatophp/tomato-admin)
 [![Downloads](https://poser.pugx.org/tomatophp/tomato-admin/d/total.svg)](https://packagist.org/packages/tomatophp/tomato-admin)
-[![GitHub Repo stars]((https://img.shields.io/github/stars/tomatophp/tomato-admin?style=flat)](https://packagist.org/packages/tomatophp/tomato-admin)
+[![GitHub Repo stars](https://img.shields.io/github/stars/tomatophp/tomato-admin?style=flat)](https://packagist.org/packages/tomatophp/tomato-admin)
 
 
 [Tomato Roles](https://www.github.com/tomatophp/tomato-roles)
@@ -51,7 +51,7 @@
 [![PHP Version Require](http://poser.pugx.org/tomatophp/tomato-roles/require/php)](https://packagist.org/packages/tomatophp/tomato-roles)
 [![License](https://poser.pugx.org/tomatophp/tomato-roles/license.svg)](https://packagist.org/packages/tomatophp/tomato-roles)
 [![Downloads](https://poser.pugx.org/tomatophp/tomato-roles/d/total.svg)](https://packagist.org/packages/tomatophp/tomato-roles)
-[![GitHub Repo stars]((https://img.shields.io/github/stars/tomatophp/tomato-roles?style=flat)](https://packagist.org/packages/tomatophp/tomato-roles)
+[![GitHub Repo stars](https://img.shields.io/github/stars/tomatophp/tomato-roles?style=flat)](https://packagist.org/packages/tomatophp/tomato-roles)
 
 
 
@@ -61,7 +61,7 @@
 [![PHP Version Require](http://poser.pugx.org/tomatophp/tomato-translations/require/php)](https://packagist.org/packages/tomatophp/tomato-translations)
 [![License](https://poser.pugx.org/tomatophp/tomato-translations/license.svg)](https://packagist.org/packages/tomatophp/tomato-translations)
 [![Downloads](https://poser.pugx.org/tomatophp/tomato-translations/d/total.svg)](https://packagist.org/packages/tomatophp/tomato-translations)
-[![GitHub Repo stars]((https://img.shields.io/github/stars/tomatophp/tomato-translations?style=flat)](https://packagist.org/packages/tomatophp/tomato-translations)
+[![GitHub Repo stars](https://img.shields.io/github/stars/tomatophp/tomato-translations?style=flat)](https://packagist.org/packages/tomatophp/tomato-translations)
 
 
 [Tomato Notifications](https://www.github.com/tomatophp/tomato-notifications)
