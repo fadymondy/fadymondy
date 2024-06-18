@@ -191,6 +191,20 @@
 [![License](https://poser.pugx.org/tomatophp/filament-menus/license.svg)](https://packagist.org/packages/tomatophp/filament-menus)
 [![Downloads](https://poser.pugx.org/tomatophp/filament-menus/d/total.svg)](https://packagist.org/packages/tomatophp/filament-menus)
 
+[Filament Browser](https://www.github.com/tomatophp/filament-browser)
+
+[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-browser/version.svg)](https://packagist.org/packages/tomatophp/filament-browser)
+[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-browser/require/php)](https://packagist.org/packages/tomatophp/filament-browser)
+[![License](https://poser.pugx.org/tomatophp/filament-browser/license.svg)](https://packagist.org/packages/tomatophp/filament-browser)
+[![Downloads](https://poser.pugx.org/tomatophp/filament-browser/d/total.svg)](https://packagist.org/packages/tomatophp/filament-browser)
+
+[Filament Artisan](https://www.github.com/tomatophp/filament-artisan)
+
+[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-artisan/version.svg)](https://packagist.org/packages/tomatophp/filament-artisan)
+[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-artisan/require/php)](https://packagist.org/packages/tomatophp/filament-artisan)
+[![License](https://poser.pugx.org/tomatophp/filament-artisan/license.svg)](https://packagist.org/packages/tomatophp/filament-artisan)
+[![Downloads](https://poser.pugx.org/tomatophp/filament-artisan/d/total.svg)](https://packagist.org/packages/tomatophp/filament-artisan)
+
 [Filament Settings Hub](https://www.github.com/tomatophp/filament-settings-hub)
 
 [![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-settings-hub/version.svg)](https://packagist.org/packages/tomatophp/filament-settings-hub)
