@@ -151,7 +151,6 @@
 [Filament FCM](https://www.github.com/tomatophp/filament-fcm)
 
 [![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-fcm/version.svg)](https://packagist.org/packages/tomatophp/filament-fcm)
-[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-fcm/require/php)](https://packagist.org/packages/tomatophp/filament-fcm)
 [![License](https://poser.pugx.org/tomatophp/filament-fcm/license.svg)](https://packagist.org/packages/tomatophp/filament-fcm)
 [![Downloads](https://poser.pugx.org/tomatophp/filament-fcm/d/total.svg)](https://packagist.org/packages/tomatophp/filament-fcm)
 [![GitHub Repo stars](https://img.shields.io/github/stars/tomatophp/filament-fcm?style=flat)](https://packagist.org/packages/tomatophp/filament-fcm)
@@ -160,7 +159,6 @@
 [Filament Helpers](https://www.github.com/tomatophp/filament-helpers)
 
 [![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-helpers/version.svg)](https://packagist.org/packages/tomatophp/filament-helpers)
-[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-helpers/require/php)](https://packagist.org/packages/tomatophp/filament-helpers)
 [![License](https://poser.pugx.org/tomatophp/filament-helpers/license.svg)](https://packagist.org/packages/tomatophp/filament-helpers)
 [![Downloads](https://poser.pugx.org/tomatophp/filament-helpers/d/total.svg)](https://packagist.org/packages/tomatophp/filament-helpers)
 [![GitHub Repo stars](https://img.shields.io/github/stars/tomatophp/filament-helpers?style=flat)](https://packagist.org/packages/tomatophp/filament-helpers)
@@ -209,7 +207,6 @@
 [Filament Artisan](https://www.github.com/tomatophp/filament-artisan)
 
 [![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-artisan/version.svg)](https://packagist.org/packages/tomatophp/filament-artisan)
-[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-artisan/require/php)](https://packagist.org/packages/tomatophp/filament-artisan)
 [![License](https://poser.pugx.org/tomatophp/filament-artisan/license.svg)](https://packagist.org/packages/tomatophp/filament-artisan)
 [![Downloads](https://poser.pugx.org/tomatophp/filament-artisan/d/total.svg)](https://packagist.org/packages/tomatophp/filament-artisan)
 [![GitHub Repo stars](https://img.shields.io/github/stars/tomatophp/filament-artisan?style=flat)](https://packagist.org/packages/tomatophp/filament-artisan)
