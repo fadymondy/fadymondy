@@ -1,15 +1,15 @@
-<img align="center"  width="100%" src="https://github.com/3x1io/3x1io/blob/main/header.png" alt="hi" />
+<img align="center"  width="100%" src="https://github.com/fadymondy/fadymondy/blob/main/header.png" alt="hi" />
 
 ## About Me
 
 <p align="left">
-    <a href="https://twitter.com/engfadymondy" target="_blank" rel="noreferrer">
+    <a href="https://x.com/fadymondy" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/twitter/follow/engfadymondy?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"/>
     </a>
-    <a href="https://www.github.com/3x1io" target="_blank" rel="noreferrer">
+    <a href="https://www.github.com/fadymondy" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/github/followers/3x1io?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" />
     </a>
-    <a href="https://github.com/3x1io">
+    <a href="https://github.com/fadymondy">
         <img src="https://komarev.com/ghpvc/?username=3x1io&style=for-the-badge">
     </a>
 </p>
@@ -32,9 +32,9 @@ check my list of packages on this list [Awesome TomatoPHP](https://github.com/to
 
 <a href="https://www.facebook.com/3x1io" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="facebook" /></a>
 <a href="https://www.instagram.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="instagram" /></a>
-<a href="https://twitter.com/engfadymondy" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="twitter" /></a>
-<a href="https://www.youtube.com/channel/UCRYxB09Uk36PIQDeTGMMsTQ" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" alt="youtube" /></a>
-<a href="https://www.linkedin.com/in/engfadymondy/" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="linkedin" /></a>
+<a href="https://x/fadymondy" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="twitter" /></a>
+<a href="https://www.youtube.com/@fadymondy" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" alt="youtube" /></a>
+<a href="https://www.linkedin.com/in/fadymondy/" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="linkedin" /></a>
 <a href="https://www.behance.net/3x1" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Behance.svg" alt="behance" /></a>
 <a href="https://wa.me/+201207860084" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="whatsapp" /></a>
 <a href="https://discord.gg/mTWWNgtr" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" alt="discord" /></a>
@@ -42,15 +42,15 @@ check my list of packages on this list [Awesome TomatoPHP](https://github.com/to
 <a href="https://3x1.io" target="_blank"><img align="center"  width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Wordpress.svg" alt="3x1" /></a>
 
 ## Counters
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3x1io&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadymondy&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3x1io&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3x1io&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fadymondy&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fadymondy&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=3x1io&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3x1io&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadymondy&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fadymondy&theme=default&utcOffset=8)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3x1io)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fadymondy)](https://git.io/streak-stats)
 
 
 <!---
