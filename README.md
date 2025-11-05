@@ -4,13 +4,13 @@
 
 <p align="left">
     <a href="https://x.com/fadymondy" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/twitter/follow/engfadymondy?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"/>
+        <img src="https://img.shields.io/twitter/follow/fadymondy?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"/>
     </a>
     <a href="https://www.github.com/fadymondy" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/github/followers/3x1io?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" />
+        <img src="https://img.shields.io/github/followers/fadymondy?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" />
     </a>
     <a href="https://github.com/fadymondy">
-        <img src="https://komarev.com/ghpvc/?username=3x1io&style=for-the-badge">
+        <img src="https://komarev.com/ghpvc/?username=fadymondy&style=for-the-badge">
     </a>
 </p>
 
