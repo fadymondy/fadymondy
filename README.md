@@ -1,7 +1,7 @@
 <img align="center" width="100%" src="https://raw.githubusercontent.com/fadymondy/fadymondy/main/header.png" alt="Fady Mondy" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Fady+Mondy+%F0%9F%91%8B;Founder+of+TomatoPHP+%F0%9F%8D%85;CTO+%40+One-Studio+%E2%9A%A1;Laravel+%2B+Filament+%2B+Go+%2B+Rust+Engineer;Building+AI+Agents+%26+Open+Source+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Fady+Mondy+%F0%9F%91%8B;Founder+of+TomatoPHP+%F0%9F%8D%85;CPTO+%40+One-Studio+%E2%9A%A1;Laravel+%2B+Filament+%2B+Go+%2B+Rust+Engineer;Building+AI+Agents+%26+Open+Source+Tools" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ```yaml
 name: Fady Mondy
-role: CTO @ One-Studio  |  Founder @ TomatoPHP
+role: CPTO @ One-Studio  |  Founder @ TomatoPHP
 location: Egypt 🇪🇬
 mission: making the world more digital
 focus:
@@ -74,6 +74,22 @@ reach_me:
 
 <p align="center">
   👉 Browse the full list: <a href="https://github.com/tomatophp/awesome"><b>Awesome TomatoPHP</b></a>
+</p>
+
+<br/>
+
+<h3 align="center">ToGO — full-stack Go + React framework 🐹⚡</h3>
+<p align="center">Ship your Go backend and React frontend as a single binary — a Laravel-artisan-grade CLI for the Go + sqlc + Atlas + React stack. 40+ repos: kernel, CLI, UI design system, DB drivers, plugins, and a public MCP.</p>
+
+<p align="center">
+  <a href="https://to-go.dev"><img src="https://img.shields.io/badge/Website-to--go.dev-1FC7DC?style=for-the-badge&logo=go&labelColor=000000" /></a>
+  <a href="https://github.com/togo-framework/togo"><img src="https://img.shields.io/github/stars/togo-framework/togo?style=for-the-badge&logo=github&color=1FC7DC&labelColor=000000&label=STARS" /></a>
+  <a href="https://www.npmjs.com/package/@togo-framework/cli"><img src="https://img.shields.io/npm/v/@togo-framework/cli?style=for-the-badge&color=2D8CE6&labelColor=000000&label=CLI" /></a>
+  <a href="https://github.com/togo-framework"><img src="https://img.shields.io/badge/Explore-togo--framework-1659C8?style=for-the-badge&logo=github&labelColor=000000" /></a>
+</p>
+
+<p align="center">
+  👉 <a href="https://to-go.dev"><b>to-go.dev</b></a> &nbsp;·&nbsp; <code>npm i -g @togo-framework/cli</code>
 </p>
 
 ---
