@@ -210,25 +210,21 @@ A growing suite of plugins and MCP tools that make agentic development with **Cl
 ## 💬 Connect With Me
 
 <p align="center">
+<a href="https://x.com/fadymondy" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="x" /></a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/fadymondy/" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="linkedin" /></a>
 &nbsp;&nbsp;
-<a href="https://x.com/fadymondy" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="twitter" /></a>
+<a href="https://www.youtube.com/@FadyMondy" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="youtube" /></a>
 &nbsp;&nbsp;
-<a href="https://www.youtube.com/@fadymondy" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="youtube" /></a>
+<a href="https://www.facebook.com/engfadymondy" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" alt="facebook" /></a>
 &nbsp;&nbsp;
-<a href="https://discord.gg/mTWWNgtr" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" alt="discord" /></a>
+<a href="https://www.tiktok.com/@engfadymondy" target="_blank"><img align="center" width="42px" src="https://cdn.simpleicons.org/tiktok/FE2C55" alt="tiktok" /></a>
 &nbsp;&nbsp;
-<a href="https://www.facebook.com/3x1io" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" alt="facebook" /></a>
+<a href="https://www.behance.net/fadymondy" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" alt="behance" /></a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/engfadymondy" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="instagram" /></a>
+<a href="https://dev.to/fadymondy" target="_blank"><img align="center" width="42px" src="https://cdn.simpleicons.org/devdotto/E2661C" alt="dev.to" /></a>
 &nbsp;&nbsp;
-<a href="https://www.behance.net/3x1" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" alt="behance" /></a>
-&nbsp;&nbsp;
-<a href="https://dribbble.com/3x1" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Dribbble.svg" alt="dribbble" /></a>
-&nbsp;&nbsp;
-<a href="https://wa.me/+201207860084" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="whatsapp" /></a>
-&nbsp;&nbsp;
-<a href="https://3x1.io" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Wordpress.svg" alt="3x1 blog" /></a>
+<a href="https://fadymondy.com" target="_blank"><img align="center" width="42px" src="https://fadymondy.com/brand/mark.png" alt="fadymondy.com" /></a>
 </p>
 
 ---
@@ -245,7 +241,7 @@ A growing suite of plugins and MCP tools that make agentic development with **Cl
     <img src="https://img.shields.io/badge/Sponsor-fadymondy-6366f1?style=for-the-badge&logo=githubsponsors&labelColor=000000" />
   </a>
   <a href="https://fadymondy.com">
-    <img src="https://img.shields.io/badge/Read_My_Blog-3x1.io-6366f1?style=for-the-badge&logo=hashnode&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Read_My_Blog-fadymondy.com-6366f1?style=for-the-badge&logo=hashnode&labelColor=000000" />
   </a>
 </p>
 
