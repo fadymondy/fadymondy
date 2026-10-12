@@ -138,7 +138,6 @@ A growing suite of plugins and MCP tools that make agentic development with **Cl
 | 🔔 **[claude-notifications](https://github.com/fadymondy/claude-notifications)** | Multi-channel alerts when Claude finishes or needs you — Slack, Discord, email, WhatsApp, desktop voice, web push & webhooks. |
 | 📸 **[claude-cap](https://github.com/fadymondy/claude-cap)** | Capture a live Chrome tab — screenshot + URL + network + console — and hand the whole bundle to Claude over MCP. |
 | 🪞 **[claude-twin](https://github.com/fadymondy/claude-twin)** | A fully local digital twin that monitors & drives 17 web apps you're already signed into, from inside Claude Code. |
-| 📝 **[mark-it-down](https://github.com/fadymondy/mark-it-down)** | A beautiful markdown viewer & editor for VSCode — live mermaid, sortable tables, code-block exports, notes sidebar & its own MCP server. |
 
 ---
 
