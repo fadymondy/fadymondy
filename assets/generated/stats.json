@@ -1,0 +1,88 @@
+{
+  "stats": {
+    "stars": 2867,
+    "lastYear": 21737,
+    "year": 2026,
+    "commits": 19713,
+    "prs": 598,
+    "repos": 623,
+    "accounts": 7,
+    "followers": 255
+  },
+  "owners": [
+    {
+      "login": "tomatophp",
+      "stars": 2439,
+      "repos": 180
+    },
+    {
+      "login": "fadymondy",
+      "stars": 302,
+      "repos": 58
+    },
+    {
+      "login": "laravilt",
+      "stars": 111,
+      "repos": 18
+    },
+    {
+      "login": "orchestra-mcp",
+      "stars": 8,
+      "repos": 105
+    },
+    {
+      "login": "togo-framework",
+      "stars": 7,
+      "repos": 244
+    },
+    {
+      "login": "circlexo",
+      "stars": 0,
+      "repos": 3
+    },
+    {
+      "login": "accelade",
+      "stars": 0,
+      "repos": 15
+    }
+  ],
+  "langs": [
+    {
+      "name": "TypeScript",
+      "size": 54188856
+    },
+    {
+      "name": "Go",
+      "size": 26005208
+    },
+    {
+      "name": "PHP",
+      "size": 25004600
+    },
+    {
+      "name": "JavaScript",
+      "size": 16164164
+    },
+    {
+      "name": "Vue",
+      "size": 10117327
+    },
+    {
+      "name": "Dart",
+      "size": 6495748
+    },
+    {
+      "name": "PLpgSQL",
+      "size": 638276
+    },
+    {
+      "name": "Rust",
+      "size": 461144
+    }
+  ],
+  "streak": {
+    "total": 34164,
+    "current": 4,
+    "longest": 37
+  }
+}

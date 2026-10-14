@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" role="img" aria-label="Top languages">
+<style>text{font-family:Inter, 'IBM Plex Sans Arabic', 'Segoe UI', system-ui, -apple-system, sans-serif}</style>
+<rect x="0.5" y="0.5" width="479" height="229" rx="14" fill="#F0EBE1" stroke="#D9D0BE"/>
+<rect x="24" y="24" width="4" height="18" rx="2" fill="#E2661C"/>
+<text x="38" y="39" font-size="16" font-weight="700" fill="#0B1429">Top languages</text>
+<clipPath id="bar"><rect x="24" y="60" width="432" height="10" rx="5"/></clipPath>
+<rect x="24" y="60" width="432" height="10" rx="5" fill="#E3DCCD"/><g clip-path="url(#bar)"><rect x="24.00" y="60" width="168.32" height="10" fill="#E2661C"/><rect x="192.32" y="60" width="80.78" height="10" fill="#C9A227"/><rect x="273.10" y="60" width="77.67" height="10" fill="#F29D64"/><rect x="350.77" y="60" width="50.21" height="10" fill="#8FA3C7"/><rect x="400.98" y="60" width="31.43" height="10" fill="#B84E12"/><rect x="432.41" y="60" width="20.18" height="10" fill="#E6CB72"/><rect x="452.58" y="60" width="1.98" height="10" fill="#5E7299"/><rect x="454.57" y="60" width="1.43" height="10" fill="#D98A4E"/></g>
+<circle cx="29" cy="96" r="5" fill="#E2661C"/>
+<text x="42" y="100" font-size="13" fill="#0B1429">TypeScript</text>
+<text x="224" y="100" font-size="13" text-anchor="end" fill="#5B6478">39.0%</text>
+<circle cx="257" cy="96" r="5" fill="#C9A227"/>
+<text x="270" y="100" font-size="13" fill="#0B1429">Go</text>
+<text x="452" y="100" font-size="13" text-anchor="end" fill="#5B6478">18.7%</text>
+<circle cx="29" cy="128" r="5" fill="#F29D64"/>
+<text x="42" y="132" font-size="13" fill="#0B1429">PHP</text>
+<text x="224" y="132" font-size="13" text-anchor="end" fill="#5B6478">18.0%</text>
+<circle cx="257" cy="128" r="5" fill="#8FA3C7"/>
+<text x="270" y="132" font-size="13" fill="#0B1429">JavaScript</text>
+<text x="452" y="132" font-size="13" text-anchor="end" fill="#5B6478">11.6%</text>
+<circle cx="29" cy="160" r="5" fill="#B84E12"/>
+<text x="42" y="164" font-size="13" fill="#0B1429">Vue</text>
+<text x="224" y="164" font-size="13" text-anchor="end" fill="#5B6478">7.3%</text>
+<circle cx="257" cy="160" r="5" fill="#E6CB72"/>
+<text x="270" y="164" font-size="13" fill="#0B1429">Dart</text>
+<text x="452" y="164" font-size="13" text-anchor="end" fill="#5B6478">4.7%</text>
+<circle cx="29" cy="192" r="5" fill="#5E7299"/>
+<text x="42" y="196" font-size="13" fill="#0B1429">PLpgSQL</text>
+<text x="224" y="196" font-size="13" text-anchor="end" fill="#5B6478">0.5%</text>
+<circle cx="257" cy="192" r="5" fill="#D98A4E"/>
+<text x="270" y="196" font-size="13" fill="#0B1429">Rust</text>
+<text x="452" y="196" font-size="13" text-anchor="end" fill="#5B6478">0.3%</text>
+</svg>

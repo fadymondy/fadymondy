@@ -1,288 +1,140 @@
-<img align="center" width="100%" src="https://raw.githubusercontent.com/fadymondy/fadymondy/main/header.png" alt="Fady Mondy" />
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Fady+Mondy+%F0%9F%91%8B;Founder+of+TomatoPHP+%F0%9F%8D%85;CPTO+%40+One-Studio+%E2%9A%A1;Laravel+%2B+Filament+%2B+Go+%2B+Rust+Engineer;Building+AI+Agents+%26+Open+Source+Tools;Crafting+Claude+Code+Plugins+%26+MCP+Tools" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-    <a href="https://x.com/fadymondy" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/twitter/follow/fadymondy?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"/>
-    </a>
-    <a href="https://www.github.com/fadymondy" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/github/followers/fadymondy?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" />
-    </a>
-    <a href="https://github.com/fadymondy">
-        <img src="https://komarev.com/ghpvc/?username=fadymondy&style=for-the-badge&color=6366f1&labelColor=000000&label=PROFILE+VIEWS">
-    </a>
-    <a href="https://github.com/sponsors/fadymondy">
-        <img src="https://img.shields.io/badge/Sponsor-fadymondy-6366f1?style=for-the-badge&logo=githubsponsors&labelColor=000000" />
-    </a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name: Fady Mondy
-role: CPTO @ One-Studio  |  Founder @ TomatoPHP
-location: Egypt 🇪🇬
-mission: making the world more digital
-focus:
-  - Laravel / Filament (TALL & VILT stack)
-  - Go & Rust in production
-  - AI agents, MCP & multi-agent systems
-  - Claude Code plugins & developer tooling
-open_source: 90+ TomatoPHP packages + a growing Go & AI-tooling ecosystem
-collaborate_on: Filament PHP, VILT, Go, Claude Code, Open Source
-reach_me:
-  whatsapp: "+20 120 786 0084"
-  email: info@3x1.io
-  blog: https://fadymondy.com
-```
-
 <div align="center">
 
-> *"Code is the closest thing we have to magic — so I keep shipping spells."* ✨
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/mark-dark.svg" />
+  <img src="assets/brand/mark-light.svg" width="88" alt="Fady Mondy cube mark" />
+</picture>
+
+# Fady Mondy
+
+**Applied AI & full-stack engineer · creator of [ToGO](https://to-go.dev)**
+
+I build open-source, agent-ready products (memory, CRM, project management, hosting) on one Go framework, and ship them in English and Arabic.
+
+<p dir="rtl">بابني منتجات مفتوحة المصدر جاهزة للـ AI agents، كلها مبنية على ToGO، وبالعربي والإنجليزي.</p>
+
+[![fadymondy.com](https://img.shields.io/badge/fadymondy.com-0B1429?style=flat-square&logo=googlechrome&logoColor=E2661C)](https://fadymondy.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1429?style=flat-square&logo=linkedin&logoColor=E2661C)](https://www.linkedin.com/in/fadymondy/)
+[![X](https://img.shields.io/badge/@fadymondy-0B1429?style=flat-square&logo=x&logoColor=E2661C)](https://x.com/fadymondy)
+[![YouTube](https://img.shields.io/badge/YouTube-0B1429?style=flat-square&logo=youtube&logoColor=E2661C)](https://www.youtube.com/@FadyMondy)
+[![Discord](https://img.shields.io/badge/Discord-0B1429?style=flat-square&logo=discord&logoColor=E2661C)](https://discord.gg/6ejdqCUMdH)
+[![Sponsor](https://img.shields.io/badge/Sponsor-E2661C?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/fadymondy)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🐹 ToGO, the foundation
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,go,rust,python,js,ts,react,nextjs,vue,tailwind,nodejs&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,docker,kubernetes,gcp,cloudflare,nginx,git,github,linux,grafana&theme=dark" />
-</p>
+**[ToGO](https://to-go.dev)** is an open-source, API-first full-stack framework: Go + sqlc + Atlas + React, with a Laravel-artisan-grade CLI, a plugin marketplace and an MCP server so AI agents can generate code with it. Every product below runs on it.
 
----
+[![Stars](https://img.shields.io/github/stars/togo-framework/togo?style=flat-square&logo=github&labelColor=0B1429&color=E2661C)](https://github.com/togo-framework/togo)
+[![Release](https://img.shields.io/github/v/release/togo-framework/togo?style=flat-square&labelColor=0B1429&color=C9A227)](https://github.com/togo-framework/togo/releases)
+[![CLI](https://img.shields.io/npm/v/@togo-framework/cli?style=flat-square&label=cli&labelColor=0B1429&color=C9A227)](https://www.npmjs.com/package/@togo-framework/cli)
+[![License](https://img.shields.io/github/license/togo-framework/togo?style=flat-square&labelColor=0B1429&color=3A4A6B)](https://github.com/togo-framework/togo)
 
-## 🚀 Featured Open Source
+[to-go.dev](https://to-go.dev) · [GitHub](https://github.com/togo-framework/togo) · [Discord](https://discord.gg/6ejdqCUMdH) · [Product Hunt](https://www.producthunt.com/products/togo-2) · `npm i -g @togo-framework/cli`
 
-<h3 align="center">🍅 Awesome TomatoPHP — 90+ Laravel & Filament packages</h3>
-<p align="center">A curated ecosystem of admin tooling, plugins, and building blocks for modern PHP apps.</p>
+### Built with ToGO
 
-<p align="center">
-  <a href="https://github.com/tomatophp/awesome">
-    <img src="https://img.shields.io/github/stars/tomatophp/awesome?style=for-the-badge&logo=github&color=6366f1&labelColor=000000&label=STARS" />
-  </a>
-  <a href="https://github.com/tomatophp/awesome/network/members">
-    <img src="https://img.shields.io/github/forks/tomatophp/awesome?style=for-the-badge&logo=github&color=6366f1&labelColor=000000&label=FORKS" />
-  </a>
-  <a href="https://github.com/tomatophp">
-    <img src="https://img.shields.io/badge/Explore-TomatoPHP_Org-6366f1?style=for-the-badge&logo=github&labelColor=000000" />
-  </a>
-</p>
-
-<p align="center">
-  👉 Browse the full list: <a href="https://github.com/tomatophp/awesome"><b>Awesome TomatoPHP</b></a>
-</p>
-
-<br/>
-
-<h3 align="center">🐹 ToGO — full-stack Go + React framework ⚡</h3>
-<p align="center">Ship your Go backend and React frontend as a single binary — a Laravel-artisan-grade CLI for the Go + sqlc + Atlas + React stack. 40+ repos: kernel, CLI, UI design system, DB drivers, plugins, and a public MCP.</p>
-
-<p align="center">
-  <a href="https://to-go.dev"><img src="https://img.shields.io/badge/Website-to--go.dev-1FC7DC?style=for-the-badge&logo=go&labelColor=000000" /></a>
-  <a href="https://github.com/togo-framework/togo"><img src="https://img.shields.io/github/stars/togo-framework/togo?style=for-the-badge&logo=github&color=1FC7DC&labelColor=000000&label=STARS" /></a>
-  <a href="https://www.npmjs.com/package/@togo-framework/cli"><img src="https://img.shields.io/npm/v/@togo-framework/cli?style=for-the-badge&color=2D8CE6&labelColor=000000&label=CLI" /></a>
-  <a href="https://github.com/togo-framework"><img src="https://img.shields.io/badge/Explore-togo--framework-1659C8?style=for-the-badge&logo=github&labelColor=000000" /></a>
-</p>
-
-<p align="center">
-  👉 <a href="https://to-go.dev"><b>to-go.dev</b></a> &nbsp;·&nbsp; <code>npm i -g @togo-framework/cli</code>
-</p>
+| Product | What it does | Links | |
+|---|---|---|---|
+| 🧠 **Zekra** | Long-term memory for AI agents over MCP: hybrid recall, knowledge graph and chat with citations. Works with Claude Code, Cursor and Codex. Desktop for Mac, Windows and Linux; iOS and Android in beta. **Launched on Product Hunt, 14 Oct 2026.** | [zekra.dev](https://zekra.dev) · [GitHub](https://github.com/fadymondy/zekra) · [Discord](https://discord.gg/99JBJd6FsR) · [Product Hunt](https://www.producthunt.com/posts/zekra) | [![](https://img.shields.io/github/stars/fadymondy/zekra?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/fadymondy/zekra) [![](https://img.shields.io/github/v/release/fadymondy/zekra?style=flat-square&labelColor=0B1429&color=C9A227)](https://github.com/fadymondy/zekra/releases) [![](https://img.shields.io/github/license/fadymondy/zekra?style=flat-square&labelColor=0B1429&color=3A4A6B)](https://github.com/fadymondy/zekra) |
+| ✅ **Mahaam** | Project management for agencies: projects, issues, time tracking, invoices, a customer portal and AI agents over MCP. | [mahaam.app](https://mahaam.app) · [GitHub](https://github.com/fadymondy/mahaam) · [Discord](https://discord.gg/a59RzxnB2H) | [![](https://img.shields.io/github/stars/fadymondy/mahaam?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/fadymondy/mahaam) [![](https://img.shields.io/github/license/fadymondy/mahaam?style=flat-square&labelColor=0B1429&color=3A4A6B)](https://github.com/fadymondy/mahaam) |
+| 💬 **Moharrik** | An AI engine for a business: CRM plus a shared WhatsApp and email inbox, leads, email marketing and automation. Every capability is an MCP tool. | [moharrik.com](https://moharrik.com) · [GitHub](https://github.com/fadymondy/moharrik) · [Discord](https://discord.gg/BMERkavdVq) | [![](https://img.shields.io/github/stars/fadymondy/moharrik?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/fadymondy/moharrik) [![](https://img.shields.io/github/license/fadymondy/moharrik?style=flat-square&labelColor=0B1429&color=3A4A6B)](https://github.com/fadymondy/moharrik) |
+| 🖥️ **Hosbah** | Server management and app hosting on your own servers or Proxmox: zero-downtime deploys, databases, backups and tunnels, with an MCP server. | [hosbah.com](https://hosbah.com) · [GitHub](https://github.com/fadymondy/hosbah) | [![](https://img.shields.io/github/stars/fadymondy/hosbah?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/fadymondy/hosbah) [![](https://img.shields.io/github/license/fadymondy/hosbah?style=flat-square&labelColor=0B1429&color=3A4A6B)](https://github.com/fadymondy/hosbah) |
+| 🛠️ **ToGO Builder** | An agent fleet that turns reported issues into shipped fixes, with a second agent and a human between every change and production. | [GitHub](https://github.com/togo-framework/builder) | [![](https://img.shields.io/github/v/release/togo-framework/builder?style=flat-square&labelColor=0B1429&color=C9A227)](https://github.com/togo-framework/builder/releases) [![](https://img.shields.io/github/license/togo-framework/builder?style=flat-square&labelColor=0B1429&color=3A4A6B)](https://github.com/togo-framework/builder) |
 
 ---
 
-## 🧩 More Frameworks & Ecosystems
+## 🧩 More open source
 
-<h3 align="center">🎛️ Laravilt — a Laravel admin panel, powered by the frontend</h3>
-<p align="center">Vue 3 · Inertia.js · Tailwind v4 · shadcn/vue — with AI baked in. Filament's power, driven by a modern SPA frontend.</p>
-<p align="center">
-  <a href="https://laravilt.com"><img src="https://img.shields.io/badge/Website-laravilt.com-6366f1?style=for-the-badge&logo=laravel&labelColor=000000" /></a>
-  <a href="https://github.com/laravilt/laravilt"><img src="https://img.shields.io/github/stars/laravilt/laravilt?style=for-the-badge&logo=github&color=6366f1&labelColor=000000&label=STARS" /></a>
-  <a href="https://github.com/laravilt"><img src="https://img.shields.io/badge/Explore-laravilt-6366f1?style=for-the-badge&logo=github&labelColor=000000" /></a>
-</p>
+| Project | What it does | Links | |
+|---|---|---|---|
+| 🎨 **Nasaq** | A design system with 392 components for React, Vue, Laravel Blade and HTML. Arabic and RTL built in, plus a shadcn registry and an MCP server. | [nasaqui.com](https://nasaqui.com) · [GitHub](https://github.com/fadymondy/nasaq) | [![](https://img.shields.io/github/stars/fadymondy/nasaq?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/fadymondy/nasaq) [![](https://img.shields.io/npm/v/@fadymondy/nasaq?style=flat-square&label=npm&labelColor=0B1429&color=C9A227)](https://www.npmjs.com/package/@fadymondy/nasaq) [![](https://img.shields.io/github/license/fadymondy/nasaq?style=flat-square&labelColor=0B1429&color=3A4A6B)](https://github.com/fadymondy/nasaq) |
+| ⭕ **CircleXO** | One account and one bill for a family of business apps: Matjar, Makhzan, Mawared and Qaima (open-sourcing in progress). Go SDK for sign-in, entitlements, usage billing and MCP auth. | [circlexo.com](https://circlexo.com) · [Docs](https://github.com/circlexo/docs) · [Go SDK](https://github.com/circlexo/circlexo-go) | [![](https://img.shields.io/github/v/release/circlexo/circlexo-go?style=flat-square&labelColor=0B1429&color=C9A227)](https://github.com/circlexo/circlexo-go/releases) [![](https://img.shields.io/github/license/circlexo/docs?style=flat-square&labelColor=0B1429&color=3A4A6B)](https://github.com/circlexo/docs) |
+| 🎛️ **Laravilt** | A modern admin panel framework for Laravel 13, rendered with Inertia on Vue 3 or React 19, with built-in AI. | [laravilt.com](https://laravilt.com) · [GitHub](https://github.com/laravilt/laravilt) · [Discord](https://discord.gg/as2j7BW7Yc) · [Product Hunt](https://www.producthunt.com/products/laravilt) | [![](https://img.shields.io/github/stars/laravilt/laravilt?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/laravilt/laravilt) [![](https://img.shields.io/github/v/release/laravilt/laravilt?style=flat-square&labelColor=0B1429&color=C9A227)](https://github.com/laravilt/laravilt/releases) [![](https://img.shields.io/github/license/laravilt/laravilt?style=flat-square&labelColor=0B1429&color=3A4A6B)](https://github.com/laravilt/laravilt) |
+| 🍅 **TomatoPHP** | 180 open-source Laravel and FilamentPHP packages: CMS, e-commerce, invoices, POS, tenancy, media and more. | [tomatophp.com](https://tomatophp.com) · [GitHub](https://github.com/tomatophp) · [Discord](https://discord.gg/ggSfrWSA87) · [Product Hunt](https://www.producthunt.com/products/tomato-php) | [![](https://img.shields.io/github/stars/tomatophp/tomato?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/tomatophp/tomato) [![](https://img.shields.io/github/v/release/tomatophp/tomato?style=flat-square&labelColor=0B1429&color=C9A227)](https://github.com/tomatophp/tomato/releases) [![](https://img.shields.io/github/license/tomatophp/tomato?style=flat-square&labelColor=0B1429&color=3A4A6B)](https://github.com/tomatophp/tomato) |
+| 🤖 **Orchestra MCP** | An AI-agentic IDE framework on a plugin host: storage, tools, transport and AI are all plugins talking over QUIC with mTLS. | [orchestra-mcp.dev](https://orchestra-mcp.dev) · [GitHub](https://github.com/orchestra-mcp/framework) | [![](https://img.shields.io/github/stars/orchestra-mcp/framework?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/orchestra-mcp/framework) [![](https://img.shields.io/github/v/release/orchestra-mcp/framework?style=flat-square&labelColor=0B1429&color=C9A227)](https://github.com/orchestra-mcp/framework/releases) [![](https://img.shields.io/github/license/orchestra-mcp/framework?style=flat-square&labelColor=0B1429&color=3A4A6B)](https://github.com/orchestra-mcp/framework) |
 
-<br/>
+### Claude Code toolkit
 
-<h3 align="center">⚡ Accelade — Reactive Blade. Zero Complexity.</h3>
-<p align="center">Brings reactivity to plain Laravel Blade without the weight of a full SPA — with the frontend of your choice.</p>
-<p align="center">
-  <a href="https://github.com/accelade"><img src="https://img.shields.io/badge/Explore-accelade-6366f1?style=for-the-badge&logo=github&labelColor=000000" /></a>
-</p>
-
-<br/>
-
-<h3 align="center">🤖 Orchestra MCP — an AI-agentic IDE framework</h3>
-<p align="center">A plugin-host architecture for the next generation of multi-agent developer tools.</p>
-<p align="center">
-  <a href="https://orchestra-mcp.dev"><img src="https://img.shields.io/badge/Website-orchestra--mcp.dev-6366f1?style=for-the-badge&logo=googlechrome&labelColor=000000" /></a>
-  <a href="https://github.com/orchestra-mcp"><img src="https://img.shields.io/badge/Explore-orchestra--mcp-6366f1?style=for-the-badge&logo=github&labelColor=000000" /></a>
-</p>
+| Plugin | What it does | |
+|---|---|---|
+| 👥 **[Claude Agents Team](https://github.com/fadymondy/agents-team)** | Generates a full agent team (orchestrator, specialists, `/meet` sessions) and lints agent quality. | [![](https://img.shields.io/github/stars/fadymondy/agents-team?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/fadymondy/agents-team) [![](https://img.shields.io/github/v/release/fadymondy/agents-team?style=flat-square&labelColor=0B1429&color=C9A227)](https://github.com/fadymondy/agents-team/releases) |
+| 📋 **[Claude GitHub PMS](https://github.com/fadymondy/gh-pms)** | GitHub Issues as a project-management system: plans, evidence-gated lifecycle, PR-driven review. | [![](https://img.shields.io/github/stars/fadymondy/gh-pms?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/fadymondy/gh-pms) [![](https://img.shields.io/github/v/release/fadymondy/gh-pms?style=flat-square&labelColor=0B1429&color=C9A227)](https://github.com/fadymondy/gh-pms/releases) |
+| 🔔 **[Claude Notifications](https://github.com/fadymondy/claude-notifications)** | Alerts when Claude finishes or needs you: Slack, Discord, email, WhatsApp, desktop voice, web push. | [![](https://img.shields.io/github/stars/fadymondy/claude-notifications?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/fadymondy/claude-notifications) [![](https://img.shields.io/github/v/release/fadymondy/claude-notifications?style=flat-square&labelColor=0B1429&color=C9A227)](https://github.com/fadymondy/claude-notifications/releases) |
+| 📸 **[Claude Cap](https://github.com/fadymondy/claude-cap)** | Captures a Chrome tab with its URL, network and console and hands the bundle to Claude over MCP. | [![](https://img.shields.io/github/stars/fadymondy/claude-cap?style=flat-square&labelColor=0B1429&color=E2661C)](https://github.com/fadymondy/claude-cap) |
 
 ---
 
-## 🛠️ AI & Claude Code Toolkit
+## 📊 Stats
 
-A growing suite of plugins and MCP tools that make agentic development with **Claude Code** genuinely productive.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/generated/stats-dark.svg" />
+    <img src="assets/generated/stats-light.svg" width="49%" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/generated/languages-dark.svg" />
+    <img src="assets/generated/languages-light.svg" width="49%" alt="Top languages" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/generated/streak-dark.svg" />
+    <img src="assets/generated/streak-light.svg" width="49%" alt="Contribution streak" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/generated/stars-dark.svg" />
+    <img src="assets/generated/stars-light.svg" width="49%" alt="Stars across tomatophp, fadymondy, laravilt, togo-framework, circlexo, orchestra-mcp and accelade" />
+  </picture>
+</p>
 
-| Project | What it does |
-|---|---|
-| 👥 **[agents-team](https://github.com/fadymondy/agents-team)** | Generate a complete agent team — orchestrator, specialist agents, `/meet` multi-agent sessions, and an agent-quality evaluator. |
-| 📋 **[gh-pms](https://github.com/fadymondy/gh-pms)** | Turns GitHub Issues into a real project-management system for Claude Code — evidence-gated lifecycle, PR-driven review, native GitHub primitives. |
-| 🔔 **[claude-notifications](https://github.com/fadymondy/claude-notifications)** | Multi-channel alerts when Claude finishes or needs you — Slack, Discord, email, WhatsApp, desktop voice, web push & webhooks. |
-| 📸 **[claude-cap](https://github.com/fadymondy/claude-cap)** | Capture a live Chrome tab — screenshot + URL + network + console — and hand the whole bundle to Claude over MCP. |
-| 🪞 **[claude-twin](https://github.com/fadymondy/claude-twin)** | A fully local digital twin that monitors & drives 17 web apps you're already signed into, from inside Claude Code. |
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🚀 Recent releases
+
+<!-- RELEASES:START -->
+- [**nasaq** v1.4.0](https://github.com/fadymondy/nasaq/releases/tag/%40fadymondy/nasaq%401.4.0) · <sub>fadymondy · 14 Oct 2026</sub>
+- [**nasaq-theme-sdk** v0.2.0](https://github.com/fadymondy/nasaq-theme-sdk/releases/tag/v0.2.0) · <sub>fadymondy · 13 Oct 2026</sub>
+- [**togo** v0.21.1](https://github.com/togo-framework/togo/releases/tag/v0.21.1) · <sub>togo-framework · 13 Oct 2026</sub>
+- [**cli** v0.2.36](https://github.com/togo-framework/cli/releases/tag/v0.2.36) · <sub>togo-framework · 13 Oct 2026</sub>
+- [**filament-media-manager** v5.0.2](https://github.com/tomatophp/filament-media-manager/releases/tag/v5.0.2) · <sub>tomatophp · 13 Oct 2026</sub>
+- [**filament-saas-panel** v5.0.2](https://github.com/tomatophp/filament-saas-panel/releases/tag/v5.0.2) · <sub>tomatophp · 13 Oct 2026</sub>
+<!-- RELEASES:END -->
+
+</td>
+<td valign="top" width="50%">
+
+### ✍️ Latest from the blog
+
+<!-- BLOG:START -->
+- [Full-Time CTO vs Fractional CTO vs Technical Consultant: Which Does Your Company Need?](https://fadymondy.com/en/blog/full-time-cto-vs-fractional-cto-vs-technical-consultant) · <sub>14 Oct 2026</sub>
+- [From Separate Projects to One Ecosystem: What I Learned Building Developer Tools](https://fadymondy.com/en/blog/from-projects-to-an-ecosystem) · <sub>12 Oct 2026</sub>
+- [Laravel AI Integration: Is There a LangChain for PHP, and What Should You Use?](https://fadymondy.com/en/blog/laravel-ai-integration-langchain-php) · <sub>12 Oct 2026</sub>
+- [Who Is Fady Mondy? Applied AI Engineer, Fractional CTO and Founder of TomatoPHP](https://fadymondy.com/en/blog/who-is-fady-mondy) · <sub>12 Oct 2026</sub>
+- [How to Ship an Official MCP Server for Your SaaS in 2 Weeks](https://fadymondy.com/en/blog/ship-official-mcp-server-for-saas-in-2-weeks) · <sub>11 Oct 2026</sub>
+<!-- BLOG:END -->
+
+[More on fadymondy.com →](https://fadymondy.com/en/blog)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧪 Also Building
+<div align="center">
 
-<p align="center">
-  🩺 <b><a href="https://github.com/fadymondy/health-debug">health-debug</a></b> — an on-device-AI health & metabolic tracker for iPhone, Mac & Apple Watch, built for desk-bound engineers.
-</p>
+### ❤️ Support the work
 
----
+Everything above is built and maintained in the open. If it saves you time, a star helps, and a sponsorship keeps the releases shipping.
 
-## 📊 GitHub Analytics
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-E2661C?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/fadymondy)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fadymondy&theme=react&background=000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=ffffff&dates=888888&hide_border=false" alt="GitHub Streak" />
-</p>
+<sub>Stats, releases and posts refresh daily with <a href=".github/workflows/profile.yml">a GitHub Action</a>.</sub>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadymondy&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadymondy&theme=github_dark" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fadymondy&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fadymondy&theme=github_dark" />
-</p>
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fadymondy&theme=github_dark&utcOffset=2" />
-</p>
-
-<!--
-  OPTIONAL — richer "icon stats" cards + trophy.
-  These use the PUBLIC github-readme-stats / github-profile-trophy instances,
-  which are GitHub-API rate-limited and were rendering BLANK on your profile.
-  To use them RELIABLY: deploy your own free copy of github-readme-stats on
-  Vercel (steps at the bottom of this file), then replace YOUR-INSTANCE below
-  with your Vercel URL and un-comment this block.
-
-<p align="center">
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=fadymondy&show_icons=true&count_private=true&theme=react&title_color=6366f1&icon_color=6366f1&bg_color=000000&border_color=6366f1" />
-  <img width="40%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=fadymondy&layout=compact&theme=react&title_color=6366f1&bg_color=000000&border_color=6366f1&langs_count=8" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fadymondy&theme=onestar&column=7&margin-w=8&margin-h=8&no-frame=true" />
-</p>
--->
-
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadymondy&theme=react-dark&bg_color=000000&color=6366f1&line=6366f1&point=ffffff&hide_border=true&area=true" width="100%" />
-</p>
-
-<!--
-  SNAKE ANIMATION — currently disabled because it shows a broken image
-  until you run the GitHub Action that generates the SVG on the `output` branch.
-  After you complete the setup steps at the bottom of this file, DELETE this
-  comment wrapper so the snake renders:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fadymondy/fadymondy/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
--->
-
----
-
-## 💬 Connect With Me
-
-<p align="center">
-<a href="https://x.com/fadymondy" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="x" /></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/fadymondy/" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="linkedin" /></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/@FadyMondy" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="youtube" /></a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/engfadymondy" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" alt="facebook" /></a>
-&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@engfadymondy" target="_blank"><img align="center" width="42px" src="https://cdn.simpleicons.org/tiktok/FE2C55" alt="tiktok" /></a>
-&nbsp;&nbsp;
-<a href="https://www.behance.net/fadymondy" target="_blank"><img align="center" width="42px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" alt="behance" /></a>
-&nbsp;&nbsp;
-<a href="https://dev.to/fadymondy" target="_blank"><img align="center" width="42px" src="https://cdn.simpleicons.org/devdotto/E2661C" alt="dev.to" /></a>
-&nbsp;&nbsp;
-<a href="https://fadymondy.com" target="_blank"><img align="center" width="42px" src="https://fadymondy.com/brand/mark.png" alt="fadymondy.com" /></a>
-</p>
-
----
-
-## ❤️ Support My Open Source Work
-
-<p align="center">
-  Every framework and tool above is built and maintained in the open — nights, weekends, and between client work.<br/>
-  If any of it saves you time, sponsoring keeps the issues answered, the releases shipping, and the next project alive.
-</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/fadymondy">
-    <img src="https://img.shields.io/badge/Sponsor-fadymondy-6366f1?style=for-the-badge&logo=githubsponsors&labelColor=000000" />
-  </a>
-  <a href="https://fadymondy.com">
-    <img src="https://img.shields.io/badge/Read_My_Blog-fadymondy.com-6366f1?style=for-the-badge&logo=hashnode&labelColor=000000" />
-  </a>
-</p>
-
-<p align="center"><i>⭐️ If my work saves you time, a star — or a sponsorship — keeps it all moving.</i></p>
-
-<!--
-=========================================================================
- SNAKE ANIMATION SETUP (do this once, then un-comment the snake block above)
-
- 1. Create file: .github/workflows/snake.yml
- 2. Paste:
-
-    name: Generate Snake
-    on:
-      schedule: [{cron: "0 0 * * *"}]
-      workflow_dispatch:
-    jobs:
-      generate:
-        runs-on: ubuntu-latest
-        permissions: { contents: write }
-        steps:
-          - uses: Platane/snk@v3
-            with:
-              github_user_name: fadymondy
-              outputs: |
-                dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          - uses: crazy-max/ghaction-github-pages@v4
-            with:
-              target_branch: output
-              build_dir: dist
-            env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }
-
- 3. Go to the Actions tab and run "Generate Snake" manually (workflow_dispatch).
-    This creates the `output` branch with the SVG. Then un-comment the snake.
-
- NOTE ON STAT CARDS: If the GitHub stats / language / summary cards ever show
- blank, it is the PUBLIC github-readme-stats instance being GitHub-API
- rate-limited (shared by thousands of users). For 100% reliability, deploy your
- own free copy: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
- then replace "github-readme-stats.vercel.app" with your own Vercel URL.
-
- NOTE: fadymondy/fadymondy is a special repo — its README.md (this file)
- renders on your GitHub profile.
-=========================================================================
--->
+</div>
