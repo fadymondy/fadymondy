@@ -98,12 +98,12 @@ I build open-source, agent-ready products (memory, CRM, project management, host
 ### 🚀 Recent releases
 
 <!-- RELEASES:START -->
-- [**nasaq** v1.4.0](https://github.com/fadymondy/nasaq/releases/tag/%40fadymondy/nasaq%401.4.0) · <sub>fadymondy · 14 Oct 2026</sub>
-- [**nasaq-theme-sdk** v0.2.0](https://github.com/fadymondy/nasaq-theme-sdk/releases/tag/v0.2.0) · <sub>fadymondy · 13 Oct 2026</sub>
-- [**togo** v0.21.1](https://github.com/togo-framework/togo/releases/tag/v0.21.1) · <sub>togo-framework · 13 Oct 2026</sub>
-- [**cli** v0.2.36](https://github.com/togo-framework/cli/releases/tag/v0.2.36) · <sub>togo-framework · 13 Oct 2026</sub>
-- [**filament-media-manager** v5.0.2](https://github.com/tomatophp/filament-media-manager/releases/tag/v5.0.2) · <sub>tomatophp · 13 Oct 2026</sub>
-- [**filament-saas-panel** v5.0.2](https://github.com/tomatophp/filament-saas-panel/releases/tag/v5.0.2) · <sub>tomatophp · 13 Oct 2026</sub>
+- [**panel** v1.1.2](https://github.com/laravilt/panel/releases/tag/v1.1.2) · <sub>laravilt · 14 Oct 2026</sub>
+- [**tomato-php** 1.1.8](https://github.com/tomatophp/tomato-php/releases/tag/1.1.8) · <sub>tomatophp · 14 Oct 2026</sub>
+- [**tomato-subscription** v1.1.2](https://github.com/tomatophp/tomato-subscription/releases/tag/v1.1.2) · <sub>tomatophp · 14 Oct 2026</sub>
+- [**dashboard** v0.10.1](https://github.com/togo-framework/dashboard/releases/tag/v0.10.1) · <sub>togo-framework · 14 Oct 2026</sub>
+- [**actions** v1.1.1](https://github.com/laravilt/actions/releases/tag/v1.1.1) · <sub>laravilt · 14 Oct 2026</sub>
+- [**cli** v0.2.37](https://github.com/togo-framework/cli/releases/tag/v0.2.37) · <sub>togo-framework · 14 Oct 2026</sub>
 <!-- RELEASES:END -->
 
 </td>

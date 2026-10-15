@@ -1,10 +1,10 @@
 {
   "stats": {
-    "stars": 2867,
-    "lastYear": 21737,
+    "stars": 2866,
+    "lastYear": 21860,
     "year": 2026,
-    "commits": 19713,
-    "prs": 598,
+    "commits": 19789,
+    "prs": 639,
     "repos": 623,
     "accounts": 7,
     "followers": 255
@@ -12,7 +12,7 @@
   "owners": [
     {
       "login": "tomatophp",
-      "stars": 2439,
+      "stars": 2438,
       "repos": 180
     },
     {
@@ -49,23 +49,23 @@
   "langs": [
     {
       "name": "TypeScript",
-      "size": 54188856
+      "size": 54268466
     },
     {
       "name": "Go",
-      "size": 26005208
+      "size": 26046639
     },
     {
       "name": "PHP",
-      "size": 25004600
+      "size": 25046597
     },
     {
       "name": "JavaScript",
-      "size": 16177917
+      "size": 16206086
     },
     {
       "name": "Vue",
-      "size": 10117327
+      "size": 10119491
     },
     {
       "name": "Dart",
@@ -81,8 +81,8 @@
     }
   ],
   "streak": {
-    "total": 34165,
-    "current": 4,
+    "total": 34286,
+    "current": 5,
     "longest": 37
   }
 }
