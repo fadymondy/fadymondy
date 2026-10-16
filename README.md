@@ -112,11 +112,11 @@ I build open-source, agent-ready products (memory, CRM, project management, host
 ### ✍️ Latest from the blog
 
 <!-- BLOG:START -->
+- [AI Business Automation: A Practical Guide](https://fadymondy.com/en/blog/ai-business-automation-practical-guide) · <sub>15 Oct 2026</sub>
+- [Claude Plugin Search: Find and Install Claude Code Plugins](https://fadymondy.com/en/blog/claude-plugin-search-claude-code) · <sub>15 Oct 2026</sub>
+- [OpenAI&apos;s Secret Device and Apple: What Happened](https://fadymondy.com/en/blog/openai-secret-device-apple-arab-developers) · <sub>15 Oct 2026</sub>
 - [Full-Time CTO vs Fractional CTO vs Technical Consultant: Which Does Your Company Need?](https://fadymondy.com/en/blog/full-time-cto-vs-fractional-cto-vs-technical-consultant) · <sub>14 Oct 2026</sub>
 - [From Separate Projects to One Ecosystem: What I Learned Building Developer Tools](https://fadymondy.com/en/blog/from-projects-to-an-ecosystem) · <sub>12 Oct 2026</sub>
-- [Laravel AI Integration: Is There a LangChain for PHP, and What Should You Use?](https://fadymondy.com/en/blog/laravel-ai-integration-langchain-php) · <sub>12 Oct 2026</sub>
-- [Who Is Fady Mondy? Applied AI Engineer, Fractional CTO and Founder of TomatoPHP](https://fadymondy.com/en/blog/who-is-fady-mondy) · <sub>12 Oct 2026</sub>
-- [How to Ship an Official MCP Server for Your SaaS in 2 Weeks](https://fadymondy.com/en/blog/ship-official-mcp-server-for-saas-in-2-weeks) · <sub>11 Oct 2026</sub>
 <!-- BLOG:END -->
 
 [More on fadymondy.com →](https://fadymondy.com/en/blog)

@@ -3,11 +3,11 @@
 <rect x="0.5" y="0.5" width="479" height="229" rx="14" fill="#F0EBE1" stroke="#D9D0BE"/>
 <rect x="24" y="24" width="4" height="18" rx="2" fill="#E2661C"/>
 <text x="38" y="39" font-size="16" font-weight="700" fill="#0B1429">Stars across the ecosystem</text>
-<text x="456" y="40" font-size="22" font-weight="700" text-anchor="end" fill="#E2661C">★ 2,866</text>
+<text x="456" y="40" font-size="22" font-weight="700" text-anchor="end" fill="#E2661C">★ 2,868</text>
 <text x="24" y="66" font-size="11" fill="#5B6478">Public, non-fork repositories in 7 accounts</text>
 <text x="24" y="96" font-size="12" fill="#0B1429">tomatophp</text>
 <rect x="150" y="87" width="230" height="8" rx="4" fill="#E3DCCD"/><rect x="150" y="87" width="230.0" height="8" rx="4" fill="#E2661C"/>
-<text x="456" y="96" font-size="12" font-weight="600" text-anchor="end" fill="#5B6478">2,438</text>
+<text x="456" y="96" font-size="12" font-weight="600" text-anchor="end" fill="#5B6478">2,440</text>
 <text x="24" y="115" font-size="12" fill="#0B1429">fadymondy</text>
 <rect x="150" y="106" width="230" height="8" rx="4" fill="#E3DCCD"/><rect x="150" y="106" width="28.5" height="8" rx="4" fill="#8F7310"/>
 <text x="456" y="115" font-size="12" font-weight="600" text-anchor="end" fill="#5B6478">302</text>
