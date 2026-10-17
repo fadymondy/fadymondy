@@ -1,9 +1,9 @@
 {
   "stats": {
-    "stars": 2868,
-    "lastYear": 22438,
+    "stars": 2872,
+    "lastYear": 22440,
     "year": 2026,
-    "commits": 19833,
+    "commits": 19835,
     "prs": 1173,
     "repos": 623,
     "accounts": 7,
@@ -12,12 +12,12 @@
   "owners": [
     {
       "login": "tomatophp",
-      "stars": 2440,
+      "stars": 2442,
       "repos": 180
     },
     {
       "login": "fadymondy",
-      "stars": 302,
+      "stars": 303,
       "repos": 58
     },
     {
@@ -26,14 +26,14 @@
       "repos": 18
     },
     {
+      "login": "togo-framework",
+      "stars": 8,
+      "repos": 244
+    },
+    {
       "login": "orchestra-mcp",
       "stars": 8,
       "repos": 105
-    },
-    {
-      "login": "togo-framework",
-      "stars": 7,
-      "repos": 244
     },
     {
       "login": "circlexo",
@@ -81,7 +81,7 @@
     }
   ],
   "streak": {
-    "total": 34864,
+    "total": 34866,
     "current": 6,
     "longest": 37
   }
