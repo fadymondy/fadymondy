@@ -4,10 +4,10 @@
 <rect x="24" y="24" width="4" height="18" rx="2" fill="#E2661C"/>
 <text x="38" y="39" font-size="16" font-weight="700" fill="#0B1429">Top languages</text>
 <clipPath id="bar"><rect x="24" y="60" width="432" height="10" rx="5"/></clipPath>
-<rect x="24" y="60" width="432" height="10" rx="5" fill="#E3DCCD"/><g clip-path="url(#bar)"><rect x="24.00" y="60" width="168.32" height="10" fill="#E2661C"/><rect x="192.32" y="60" width="80.79" height="10" fill="#C9A227"/><rect x="273.11" y="60" width="77.68" height="10" fill="#F29D64"/><rect x="350.79" y="60" width="50.26" height="10" fill="#8FA3C7"/><rect x="401.06" y="60" width="31.39" height="10" fill="#B84E12"/><rect x="432.44" y="60" width="20.15" height="10" fill="#E6CB72"/><rect x="452.59" y="60" width="1.98" height="10" fill="#5E7299"/><rect x="454.57" y="60" width="1.43" height="10" fill="#D98A4E"/></g>
+<rect x="24" y="60" width="432" height="10" rx="5" fill="#E3DCCD"/><g clip-path="url(#bar)"><rect x="24.00" y="60" width="168.26" height="10" fill="#E2661C"/><rect x="192.26" y="60" width="80.90" height="10" fill="#C9A227"/><rect x="273.17" y="60" width="77.66" height="10" fill="#F29D64"/><rect x="350.83" y="60" width="50.25" height="10" fill="#8FA3C7"/><rect x="401.07" y="60" width="31.38" height="10" fill="#B84E12"/><rect x="432.45" y="60" width="20.14" height="10" fill="#E6CB72"/><rect x="452.59" y="60" width="1.98" height="10" fill="#5E7299"/><rect x="454.57" y="60" width="1.43" height="10" fill="#D98A4E"/></g>
 <circle cx="29" cy="96" r="5" fill="#E2661C"/>
 <text x="42" y="100" font-size="13" fill="#0B1429">TypeScript</text>
-<text x="224" y="100" font-size="13" text-anchor="end" fill="#5B6478">39.0%</text>
+<text x="224" y="100" font-size="13" text-anchor="end" fill="#5B6478">38.9%</text>
 <circle cx="257" cy="96" r="5" fill="#C9A227"/>
 <text x="270" y="100" font-size="13" fill="#0B1429">Go</text>
 <text x="452" y="100" font-size="13" text-anchor="end" fill="#5B6478">18.7%</text>

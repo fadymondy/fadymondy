@@ -1,10 +1,10 @@
 {
   "stats": {
-    "stars": 2873,
-    "lastYear": 22446,
+    "stars": 2875,
+    "lastYear": 22429,
     "year": 2026,
-    "commits": 19841,
-    "prs": 1173,
+    "commits": 19855,
+    "prs": 1175,
     "repos": 623,
     "accounts": 7,
     "followers": 256
@@ -12,7 +12,7 @@
   "owners": [
     {
       "login": "tomatophp",
-      "stars": 2443,
+      "stars": 2444,
       "repos": 180
     },
     {
@@ -26,14 +26,14 @@
       "repos": 18
     },
     {
+      "login": "orchestra-mcp",
+      "stars": 9,
+      "repos": 105
+    },
+    {
       "login": "togo-framework",
       "stars": 8,
       "repos": 244
-    },
-    {
-      "login": "orchestra-mcp",
-      "stars": 8,
-      "repos": 105
     },
     {
       "login": "circlexo",
@@ -53,7 +53,7 @@
     },
     {
       "name": "Go",
-      "size": 26046639
+      "size": 26093320
     },
     {
       "name": "PHP",
@@ -81,8 +81,8 @@
     }
   ],
   "streak": {
-    "total": 34872,
-    "current": 8,
+    "total": 34888,
+    "current": 9,
     "longest": 37
   }
 }
