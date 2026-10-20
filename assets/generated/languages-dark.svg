@@ -4,13 +4,13 @@
 <rect x="24" y="24" width="4" height="18" rx="2" fill="#E2661C"/>
 <text x="38" y="39" font-size="16" font-weight="700" fill="#F0EBE1">Top languages</text>
 <clipPath id="bar"><rect x="24" y="60" width="432" height="10" rx="5"/></clipPath>
-<rect x="24" y="60" width="432" height="10" rx="5" fill="#16213D"/><g clip-path="url(#bar)"><rect x="24.00" y="60" width="168.26" height="10" fill="#E2661C"/><rect x="192.26" y="60" width="80.90" height="10" fill="#C9A227"/><rect x="273.17" y="60" width="77.66" height="10" fill="#F29D64"/><rect x="350.83" y="60" width="50.25" height="10" fill="#8FA3C7"/><rect x="401.07" y="60" width="31.38" height="10" fill="#B84E12"/><rect x="432.45" y="60" width="20.14" height="10" fill="#E6CB72"/><rect x="452.59" y="60" width="1.98" height="10" fill="#5E7299"/><rect x="454.57" y="60" width="1.43" height="10" fill="#D98A4E"/></g>
+<rect x="24" y="60" width="432" height="10" rx="5" fill="#16213D"/><g clip-path="url(#bar)"><rect x="24.00" y="60" width="168.12" height="10" fill="#E2661C"/><rect x="192.12" y="60" width="81.18" height="10" fill="#C9A227"/><rect x="273.30" y="60" width="77.59" height="10" fill="#F29D64"/><rect x="350.90" y="60" width="50.21" height="10" fill="#8FA3C7"/><rect x="401.10" y="60" width="31.35" height="10" fill="#B84E12"/><rect x="432.45" y="60" width="20.12" height="10" fill="#E6CB72"/><rect x="452.58" y="60" width="1.99" height="10" fill="#5E7299"/><rect x="454.57" y="60" width="1.43" height="10" fill="#D98A4E"/></g>
 <circle cx="29" cy="96" r="5" fill="#E2661C"/>
 <text x="42" y="100" font-size="13" fill="#F0EBE1">TypeScript</text>
 <text x="224" y="100" font-size="13" text-anchor="end" fill="#8E98AE">38.9%</text>
 <circle cx="257" cy="96" r="5" fill="#C9A227"/>
 <text x="270" y="100" font-size="13" fill="#F0EBE1">Go</text>
-<text x="452" y="100" font-size="13" text-anchor="end" fill="#8E98AE">18.7%</text>
+<text x="452" y="100" font-size="13" text-anchor="end" fill="#8E98AE">18.8%</text>
 <circle cx="29" cy="128" r="5" fill="#F29D64"/>
 <text x="42" y="132" font-size="13" fill="#F0EBE1">PHP</text>
 <text x="224" y="132" font-size="13" text-anchor="end" fill="#8E98AE">18.0%</text>
