@@ -1,13 +1,13 @@
 {
   "stats": {
     "stars": 2876,
-    "lastYear": 22526,
+    "lastYear": 22644,
     "year": 2026,
-    "commits": 19943,
-    "prs": 1193,
+    "commits": 20059,
+    "prs": 1195,
     "repos": 623,
     "accounts": 7,
-    "followers": 256
+    "followers": 257
   },
   "owners": [
     {
@@ -49,11 +49,11 @@
   "langs": [
     {
       "name": "TypeScript",
-      "size": 54268466
+      "size": 54280902
     },
     {
       "name": "Go",
-      "size": 26202981
+      "size": 26258147
     },
     {
       "name": "PHP",
@@ -73,7 +73,7 @@
     },
     {
       "name": "PLpgSQL",
-      "size": 643797
+      "size": 648698
     },
     {
       "name": "Rust",
@@ -81,8 +81,8 @@
     }
   ],
   "streak": {
-    "total": 34896,
-    "current": 10,
+    "total": 35014,
+    "current": 11,
     "longest": 37
   }
 }
