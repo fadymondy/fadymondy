@@ -1,10 +1,10 @@
 {
   "stats": {
-    "stars": 2876,
-    "lastYear": 23800,
+    "stars": 2877,
+    "lastYear": 24479,
     "year": 2026,
-    "commits": 21214,
-    "prs": 1196,
+    "commits": 21892,
+    "prs": 1197,
     "repos": 623,
     "accounts": 7,
     "followers": 258
@@ -17,7 +17,7 @@
     },
     {
       "login": "fadymondy",
-      "stars": 303,
+      "stars": 304,
       "repos": 58
     },
     {
@@ -49,11 +49,11 @@
   "langs": [
     {
       "name": "TypeScript",
-      "size": 54280902
+      "size": 54282270
     },
     {
       "name": "Go",
-      "size": 26258147
+      "size": 26307803
     },
     {
       "name": "PHP",
@@ -81,8 +81,8 @@
     }
   ],
   "streak": {
-    "total": 36170,
-    "current": 12,
+    "total": 36849,
+    "current": 14,
     "longest": 37
   }
 }
