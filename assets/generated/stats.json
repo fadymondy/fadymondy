@@ -1,10 +1,10 @@
 {
   "stats": {
     "stars": 2877,
-    "lastYear": 24479,
+    "lastYear": 24947,
     "year": 2026,
-    "commits": 21892,
-    "prs": 1197,
+    "commits": 22357,
+    "prs": 1200,
     "repos": 623,
     "accounts": 7,
     "followers": 258
@@ -49,11 +49,11 @@
   "langs": [
     {
       "name": "TypeScript",
-      "size": 54282270
+      "size": 54284808
     },
     {
       "name": "Go",
-      "size": 26307803
+      "size": 26331197
     },
     {
       "name": "PHP",
@@ -81,8 +81,8 @@
     }
   ],
   "streak": {
-    "total": 36849,
-    "current": 14,
+    "total": 37317,
+    "current": 15,
     "longest": 37
   }
 }

@@ -112,11 +112,11 @@ I build open-source, agent-ready products (memory, CRM, project management, host
 ### ✍️ Latest from the blog
 
 <!-- BLOG:START -->
+- [REA: The Tool That Lets AI Reverse Engineer Any App (and How to Use It Right)](https://fadymondy.com/en/blog/rea-reverse-engineer-anything-ai-agents) · <sub>25 Oct 2026</sub>
+- [PHP2Shell: Patch PHP Today in 3 Steps](https://fadymondy.com/en/blog/php2shell-patch-php-today) · <sub>25 Oct 2026</sub>
 - [Reviewing AI-written code before you ship it: 4 gates](https://fadymondy.com/en/blog/review-ai-written-code-before-shipping) · <sub>20 Oct 2026</sub>
 - [Quantum Computers Explained: Qubits, Superposition and Where We Are in 2026](https://fadymondy.com/en/blog/quantum-computers-explained) · <sub>19 Oct 2026</sub>
 - [Top Programming Languages in 2026: Rankings and How to Choose](https://fadymondy.com/en/blog/top-programming-languages) · <sub>19 Oct 2026</sub>
-- [What Is an Algorithm? A Simple Explanation with Examples](https://fadymondy.com/en/blog/what-is-an-algorithm) · <sub>19 Oct 2026</sub>
-- [Why I built Hosbah (on ToGO)](https://fadymondy.com/en/blog/why-i-built-hosbah) · <sub>19 Oct 2026</sub>
 <!-- BLOG:END -->
 
 [More on fadymondy.com →](https://fadymondy.com/en/blog)
