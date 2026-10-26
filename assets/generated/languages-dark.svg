@@ -4,7 +4,7 @@
 <rect x="24" y="24" width="4" height="18" rx="2" fill="#E2661C"/>
 <text x="38" y="39" font-size="16" font-weight="700" fill="#F0EBE1">Top languages</text>
 <clipPath id="bar"><rect x="24" y="60" width="432" height="10" rx="5"/></clipPath>
-<rect x="24" y="60" width="432" height="10" rx="5" fill="#16213D"/><g clip-path="url(#bar)"><rect x="24.00" y="60" width="167.99" height="10" fill="#E2661C"/><rect x="191.99" y="60" width="81.49" height="10" fill="#C9A227"/><rect x="273.48" y="60" width="77.51" height="10" fill="#F29D64"/><rect x="350.99" y="60" width="50.15" height="10" fill="#8FA3C7"/><rect x="401.15" y="60" width="31.32" height="10" fill="#B84E12"/><rect x="432.46" y="60" width="20.10" height="10" fill="#E6CB72"/><rect x="452.57" y="60" width="2.01" height="10" fill="#5E7299"/><rect x="454.57" y="60" width="1.43" height="10" fill="#D98A4E"/></g>
+<rect x="24" y="60" width="432" height="10" rx="5" fill="#16213D"/><g clip-path="url(#bar)"><rect x="24.00" y="60" width="167.99" height="10" fill="#E2661C"/><rect x="191.99" y="60" width="81.49" height="10" fill="#C9A227"/><rect x="273.49" y="60" width="77.51" height="10" fill="#F29D64"/><rect x="351.00" y="60" width="50.15" height="10" fill="#8FA3C7"/><rect x="401.15" y="60" width="31.32" height="10" fill="#B84E12"/><rect x="432.46" y="60" width="20.10" height="10" fill="#E6CB72"/><rect x="452.57" y="60" width="2.01" height="10" fill="#5E7299"/><rect x="454.57" y="60" width="1.43" height="10" fill="#D98A4E"/></g>
 <circle cx="29" cy="96" r="5" fill="#E2661C"/>
 <text x="42" y="100" font-size="13" fill="#F0EBE1">TypeScript</text>
 <text x="224" y="100" font-size="13" text-anchor="end" fill="#8E98AE">38.9%</text>
