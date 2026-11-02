@@ -112,11 +112,11 @@ I build open-source, agent-ready products (memory, CRM, project management, host
 ### ✍️ Latest from the blog
 
 <!-- BLOG:START -->
+- [Written in 10 Days, on Nearly Every Website: Why JavaScript Won](https://fadymondy.com/en/blog/javascript-history-why-it-won) · <sub>2 Nov 2026</sub>
+- [I Built My Own 3D Printer From a Kit](https://fadymondy.com/en/blog/built-3d-printer-from-kit) · <sub>2 Nov 2026</sub>
+- [One Missed Update: How Knight Capital Lost $460 Million](https://fadymondy.com/en/blog/knight-capital-460-million-bug) · <sub>2 Nov 2026</sub>
+- [582,000 AI Projects, One Slow Language: Why Python Won](https://fadymondy.com/en/blog/why-slow-python-won-ai) · <sub>2 Nov 2026</sub>
 - [What Is Null in Programming?](https://fadymondy.com/en/blog/what-is-null) · <sub>29 Oct 2026</sub>
-- [What Is the Internet and How Does It Work?](https://fadymondy.com/en/blog/what-is-the-internet) · <sub>29 Oct 2026</sub>
-- [The World&apos;s Fastest Supercomputers: TOP500 in 2026](https://fadymondy.com/en/blog/top-supercomputers) · <sub>29 Oct 2026</sub>
-- [What Is a Front-End Developer? Role, Skills and Tools in 2026](https://fadymondy.com/en/blog/what-is-a-front-end-developer) · <sub>29 Oct 2026</sub>
-- [Quantum Computers Explained: Qubits, Superposition and Where We Are in 2026](https://fadymondy.com/en/blog/quantum-computers-explained) · <sub>29 Oct 2026</sub>
 <!-- BLOG:END -->
 
 [More on fadymondy.com →](https://fadymondy.com/en/blog)
