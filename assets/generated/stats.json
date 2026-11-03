@@ -1,9 +1,9 @@
 {
   "stats": {
     "stars": 2881,
-    "lastYear": 25312,
+    "lastYear": 25279,
     "year": 2026,
-    "commits": 22770,
+    "commits": 22737,
     "prs": 1201,
     "repos": 623,
     "accounts": 7,
@@ -81,7 +81,7 @@
     }
   ],
   "streak": {
-    "total": 37731,
+    "total": 37698,
     "current": 3,
     "longest": 37
   }

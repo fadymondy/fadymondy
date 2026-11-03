@@ -112,11 +112,11 @@ I build open-source, agent-ready products (memory, CRM, project management, host
 ### ✍️ Latest from the blog
 
 <!-- BLOG:START -->
+- [It Lost a Cable Box Deal, Then Google Picked It for Android: The Story of Java](https://fadymondy.com/en/blog/java-history-cable-box-deal-android) · <sub>2 Nov 2026</sub>
 - [Written in 10 Days, on Nearly Every Website: Why JavaScript Won](https://fadymondy.com/en/blog/javascript-history-why-it-won) · <sub>2 Nov 2026</sub>
-- [I Built My Own 3D Printer From a Kit](https://fadymondy.com/en/blog/built-3d-printer-from-kit) · <sub>2 Nov 2026</sub>
 - [One Missed Update: How Knight Capital Lost $460 Million](https://fadymondy.com/en/blog/knight-capital-460-million-bug) · <sub>2 Nov 2026</sub>
 - [582,000 AI Projects, One Slow Language: Why Python Won](https://fadymondy.com/en/blog/why-slow-python-won-ai) · <sub>2 Nov 2026</sub>
-- [What Is Null in Programming?](https://fadymondy.com/en/blog/what-is-null) · <sub>29 Oct 2026</sub>
+- [I Built My Own 3D Printer From a Kit](https://fadymondy.com/en/blog/built-3d-printer-from-kit) · <sub>2 Nov 2026</sub>
 <!-- BLOG:END -->
 
 [More on fadymondy.com →](https://fadymondy.com/en/blog)
