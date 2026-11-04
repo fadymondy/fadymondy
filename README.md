@@ -112,11 +112,11 @@ I build open-source, agent-ready products (memory, CRM, project management, host
 ### ✍️ Latest from the blog
 
 <!-- BLOG:START -->
+- [Rust: A broken elevator and a gate for memory safety](https://fadymondy.com/en/blog/rust-history-from-broken-elevator-to-memory-safety) · <sub>3 Nov 2026</sub>
+- [Go: From C++ build waits to the API behind my website](https://fadymondy.com/en/blog/go-history-from-build-waits-to-apis) · <sub>3 Nov 2026</sub>
+- [Laravel: From CodeIgniter edits to tools we build with](https://fadymondy.com/en/blog/laravel-history-from-codeigniter-to-tomatophp) · <sub>3 Nov 2026</sub>
+- [C++: From a PhD program to Arduino and the printer I assembled](https://fadymondy.com/en/blog/cpp-history-from-phd-to-arduino) · <sub>3 Nov 2026</sub>
 - [It Lost a Cable Box Deal, Then Google Picked It for Android: The Story of Java](https://fadymondy.com/en/blog/java-history-cable-box-deal-android) · <sub>2 Nov 2026</sub>
-- [Written in 10 Days, on Nearly Every Website: Why JavaScript Won](https://fadymondy.com/en/blog/javascript-history-why-it-won) · <sub>2 Nov 2026</sub>
-- [One Missed Update: How Knight Capital Lost $460 Million](https://fadymondy.com/en/blog/knight-capital-460-million-bug) · <sub>2 Nov 2026</sub>
-- [582,000 AI Projects, One Slow Language: Why Python Won](https://fadymondy.com/en/blog/why-slow-python-won-ai) · <sub>2 Nov 2026</sub>
-- [I Built My Own 3D Printer From a Kit](https://fadymondy.com/en/blog/built-3d-printer-from-kit) · <sub>2 Nov 2026</sub>
 <!-- BLOG:END -->
 
 [More on fadymondy.com →](https://fadymondy.com/en/blog)
