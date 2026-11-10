@@ -1,0 +1,11 @@
+[mcp_servers.cabrain]
+command = "E:/Sites/ToGo/bin/brain-mcp.exe"
+
+[mcp_servers.cabrain.env]
+CABRAIN_API_URL = "https://cabrain-app.fadymondy.com"
+CABRAIN_TOKEN = "cbt_17e02992b3ded862a031efddfb5268aacf4c64fe279f41d0"
+CABRAIN_AGENT_ID = "fadymondy-agent"
+
+[mcp_servers.togo]
+command = "E:/Sites/ToGo/bin/togo.exe"
+args = ["mcp:serve"]
